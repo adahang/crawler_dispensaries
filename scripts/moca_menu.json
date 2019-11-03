@@ -2,7 +2,7 @@
   {
     "id": "4821",
     "name": "ASH CATCHER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ASH CATCHERS",
     "vendor": "HSW",
@@ -33,7 +33,7 @@
   {
     "id": "3986",
     "name": "YOCAN STIX ATOMIZER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ATOMIZERS",
     "vendor": "GOT VA",
@@ -64,7 +64,7 @@
   {
     "id": "4609",
     "name": "PUFFCO PEAK ATOMIZER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ATOMIZERS",
     "vendor": "HSW",
@@ -95,7 +95,7 @@
   {
     "id": "1996",
     "name": "CHOCOLATE CHIP COOKIE 1:1 4 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BAKED GOODS",
     "vendor": "SHELBY",
@@ -126,7 +126,7 @@
   {
     "id": "1995",
     "name": "CHOCOLATE CHIP COOKIE CBD 4 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BAKED GOODS",
     "vendor": "SHELBY",
@@ -157,7 +157,7 @@
   {
     "id": "2279",
     "name": "CHOCOLATE CHIP COOKIES THC 2 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BAKED GOODS",
     "vendor": "SHELBY",
@@ -188,7 +188,7 @@
   {
     "id": "3851",
     "name": "BALM PAIN RELIEF HARMONY 1:1 AVEXIA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BALMS AND LOTIONS",
     "vendor": "ATARAX",
@@ -219,7 +219,7 @@
   {
     "id": "5078",
     "name": "LOTION PAIN RELIEF 1:1 AVEXIA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BALMS AND LOTIONS",
     "vendor": "ATARAX",
@@ -250,7 +250,7 @@
   {
     "id": "1494",
     "name": "EXTRA STRENGTH PAIN CREAM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BALMS AND LOTIONS",
     "vendor": "CRESCO",
@@ -281,7 +281,7 @@
   {
     "id": "1522",
     "name": "MARY'S MEDICINAL MUSCLE FREEZE LARGE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BALMS AND LOTIONS",
     "vendor": "GTI",
@@ -312,7 +312,7 @@
   {
     "id": "1088",
     "name": "CBD BODY OIL",
-    "description": null,
+    "description": "Coconut, jojoba and essential oils. 26 servings/15 mL per bottle",
     "tags": null,
     "product_type": "BALMS AND LOTIONS",
     "vendor": "PTS",
@@ -343,7 +343,7 @@
   {
     "id": "5060",
     "name": "10M 90",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "GRSLAB",
@@ -374,7 +374,7 @@
   {
     "id": "5059",
     "name": "14M 90",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "GRSLAB",
@@ -405,7 +405,7 @@
   {
     "id": "2654",
     "name": "MAC BANGER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "MAC",
@@ -436,7 +436,7 @@
   {
     "id": "2650",
     "name": "10M45 THICK BOTTOM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -467,7 +467,7 @@
   {
     "id": "4347",
     "name": "10M45 THIN BOTTOM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -498,7 +498,7 @@
   {
     "id": "2649",
     "name": "10M90 THICK BOTTOM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -529,7 +529,7 @@
   {
     "id": "4346",
     "name": "10M90 THIN BOTTOM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -560,7 +560,7 @@
   {
     "id": "2648",
     "name": "14M45 THICK BOTTOM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -591,7 +591,7 @@
   {
     "id": "4348",
     "name": "14M45 THIN BOTTOM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -622,7 +622,7 @@
   {
     "id": "3812",
     "name": "14M45 WIDE BUCKET",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -653,7 +653,7 @@
   {
     "id": "2647",
     "name": "14M90 THICK BOTTOM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -684,7 +684,7 @@
   {
     "id": "4349",
     "name": "14M90 THIN BOTTOM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -715,7 +715,7 @@
   {
     "id": "3810",
     "name": "14M90 WIDE BUCKET",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BANGERS",
     "vendor": "TBS",
@@ -746,7 +746,7 @@
   {
     "id": "4411",
     "name": "YOCAN STIX",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BATTERIES",
     "vendor": "HSW",
@@ -777,7 +777,7 @@
   {
     "id": "2307",
     "name": "PAX ERA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BATTERIES",
     "vendor": "PAX",
@@ -808,7 +808,7 @@
   {
     "id": "2642",
     "name": "DEVON FUMED BUBBLE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "DEVON",
@@ -839,7 +839,7 @@
   {
     "id": "2640",
     "name": "FUMED BUBBLE CAP",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "DEVON",
@@ -870,7 +870,7 @@
   {
     "id": "2664",
     "name": "DOM BUBBLE 25MM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "DOM",
@@ -901,7 +901,7 @@
   {
     "id": "4112",
     "name": "EIFLER BUBBLE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "EIFLER",
@@ -932,7 +932,7 @@
   {
     "id": "4616",
     "name": "JONG BUBBLE CAP",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "JONG",
@@ -963,7 +963,7 @@
   {
     "id": "4050",
     "name": "BUBBLE CAP WITH STAND",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "KANE",
@@ -994,7 +994,7 @@
   {
     "id": "2519",
     "name": "KANE BUBBLE CAP",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "KANE",
@@ -1025,7 +1025,7 @@
   {
     "id": "4683",
     "name": "KANE PEAK BUBBLE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "KANE",
@@ -1056,7 +1056,7 @@
   {
     "id": "4641",
     "name": "NEW BUBBLE DROP",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "KANE",
@@ -1087,7 +1087,7 @@
   {
     "id": "2659",
     "name": "KAVON BUBBLE CAP",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "KVON",
@@ -1118,7 +1118,7 @@
   {
     "id": "4809",
     "name": "BLACK CRUSHED OPAL PEAK ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "WAAG",
@@ -1149,7 +1149,7 @@
   {
     "id": "4808",
     "name": "COLOR CRUSHED OPAL PEAK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUBBLES",
     "vendor": "WAAG",
@@ -1180,7 +1180,7 @@
   {
     "id": "2031",
     "name": "LUCIENNE 10 OZ BUTANE CAN",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "BUTANE",
     "vendor": "EAST",
@@ -1211,7 +1211,7 @@
   {
     "id": "445",
     "name": "100 MG BLUEBERRY GUMMY 10 PACK",
-    "description": null,
+    "description": "10mg of THC & 10mg of CBD / 10 Indica Gummies ",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "ATARAX",
@@ -1242,7 +1242,7 @@
   {
     "id": "446",
     "name": "100 MG GRAPE GUMMY 10 PACK",
-    "description": null,
+    "description": "10mg of THC each Gummy / 10 Hybrid Gummies Total",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "ATARAX",
@@ -1273,7 +1273,7 @@
   {
     "id": "478",
     "name": "100 MG GREEN APPLE GUMMY 10 PACK",
-    "description": null,
+    "description": "10mg of THC & 20mg of CBD each Gummy / 10 Gummies Total",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "ATARAX",
@@ -1304,7 +1304,7 @@
   {
     "id": "479",
     "name": "100 MG ORANGE GUMMY 10 PACK",
-    "description": null,
+    "description": "10mg of THC & 10mg each Gummy / 10 Gummies Total",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "ATARAX",
@@ -1335,7 +1335,7 @@
   {
     "id": "441",
     "name": "100 MG STRAWBERRY GUMMY 10 PACK",
-    "description": null,
+    "description": "10mg of THC each Gummy / 10 Sativa Gummies Total",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "ATARAX",
@@ -1366,7 +1366,7 @@
   {
     "id": "4551",
     "name": "CHERRY 1:1 FRUIT CHEWS 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "CRESCO",
@@ -1397,7 +1397,7 @@
   {
     "id": "4219",
     "name": "LEMON LIME FRUIT CHEWS 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "CRESCO",
@@ -1428,7 +1428,7 @@
   {
     "id": "4220",
     "name": "MANGO FRUIT CHEWS 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "CRESCO",
@@ -1459,7 +1459,7 @@
   {
     "id": "4200",
     "name": "STRAWBERRY BANANA FRUIT CHEWS 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "CRESCO",
@@ -1490,7 +1490,7 @@
   {
     "id": "2379",
     "name": "SWEET CHERRY 1:1 10 PACK",
-    "description": null,
+    "description": "Feel effects quickly through sublingual absorption followed by lasting effects through digestion. 100mg pack 10mg each piece ",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "CRESCO",
@@ -1521,7 +1521,7 @@
   {
     "id": "833",
     "name": "SWEET STRAWBERRY SPARKLING 10 PACK",
-    "description": null,
+    "description": "Feel effects quickly through sublingual absorption followed by lasting effects through digestion. 100mg pack 10mg each piece ",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "CRESCO",
@@ -1552,7 +1552,7 @@
   {
     "id": "834",
     "name": "SWEET VANILLA BUTTERSCOTCH 10 PACK",
-    "description": null,
+    "description": "Feel effects quickly through sublingual absorption followed by lasting effects through digestion. 100mg pack 10mg each piece ",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "CRESCO",
@@ -1583,7 +1583,7 @@
   {
     "id": "4857",
     "name": "HALE CRUNCH APPLE CIDER CINNAMON CEREAL 4PK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GROOTS",
@@ -1614,7 +1614,7 @@
   {
     "id": "4741",
     "name": "HALE MIX SUNFLOWER/PUMPKIN SEED",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GROOTS",
@@ -1645,7 +1645,7 @@
   {
     "id": "4438",
     "name": "WANA BLUEBERRY INDICA GUMMIES 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GROOTS",
@@ -1676,7 +1676,7 @@
   {
     "id": "4439",
     "name": "WANA MANGO SATIVA GUMMIES 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GROOTS",
@@ -1707,7 +1707,7 @@
   {
     "id": "4630",
     "name": "WANA RASPBERRY GUMMY 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GROOTS",
@@ -1738,7 +1738,7 @@
   {
     "id": "4320",
     "name": "BEDTIME BETTY'S EDDIES FRUIT CHEWS 5 PACK",
-    "description": null,
+    "description": "20mg of 5pk Fruit Chews",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -1769,7 +1769,7 @@
   {
     "id": "1284",
     "name": "BETTY'S EDDIES FRUIT CHEWS 5 PACK",
-    "description": null,
+    "description": "5pk of 20mg Fruit Chews",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -1800,7 +1800,7 @@
   {
     "id": "2354",
     "name": "INCREDIBLES PEACH GUMMY 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -1831,7 +1831,7 @@
   {
     "id": "2355",
     "name": "INCREDIBLES RED LICORICE 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -1862,7 +1862,7 @@
   {
     "id": "2356",
     "name": "INCREDIBLES SOUR CHERRY GUMMY 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -1893,7 +1893,7 @@
   {
     "id": "2584",
     "name": "INCREDIBLES STRAWBERRY CBD:THC GUMMY 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -1924,7 +1924,7 @@
   {
     "id": "4786",
     "name": "INCREDIBLES TART MICRODOSE 2MG",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -1955,7 +1955,7 @@
   {
     "id": "2358",
     "name": "INCREDIBLES WATERMELON GUMMY 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -1986,7 +1986,7 @@
   {
     "id": "4198",
     "name": "KALM MINTS CBD TABLETS 20 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -2017,7 +2017,7 @@
   {
     "id": "4358",
     "name": "KALM MINTS THC TABLET 20 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "GTI",
@@ -2048,7 +2048,7 @@
   {
     "id": "4330",
     "name": "INDICA SOUR CHERRY GUMMIES 20 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "IESO",
@@ -2079,7 +2079,7 @@
   {
     "id": "3941",
     "name": "INDICA WATERMELON GUMMIES 20 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "IESO",
@@ -2110,7 +2110,7 @@
   {
     "id": "4331",
     "name": "SATIVA SOUR CHERRY GUMMIES 20 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "IESO",
@@ -2141,7 +2141,7 @@
   {
     "id": "3942",
     "name": "SATIVA WATERMELON GUMMIES 20 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "IESO",
@@ -2172,7 +2172,7 @@
   {
     "id": "863",
     "name": "FRUIT GOOBIES CBD (ORANGE) 4PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2203,7 +2203,7 @@
   {
     "id": "1094",
     "name": "FRUIT GOOBIES MANGO 4 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2234,7 +2234,7 @@
   {
     "id": "1400",
     "name": "FRUIT GOOBIES STRAWBERRY ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2265,7 +2265,7 @@
   {
     "id": "2581",
     "name": "FRUIT GOOBIES WILD CHERRY 1:1 4 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2296,7 +2296,7 @@
   {
     "id": "1290",
     "name": "GORILLA CHEW SINGLE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2327,7 +2327,7 @@
   {
     "id": "2263",
     "name": "SURP BLUEBERRY CBD",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2358,7 +2358,7 @@
   {
     "id": "1664",
     "name": "SURP CHERRY LIMEADE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2389,7 +2389,7 @@
   {
     "id": "4195",
     "name": "SURP FRENCH VANILLA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2420,7 +2420,7 @@
   {
     "id": "2580",
     "name": "SURP MANGO STRAWBERRY",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2451,7 +2451,7 @@
   {
     "id": "2630",
     "name": "SURP ORANGE PINEAPPLE GUAVA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "REVOLU",
@@ -2482,7 +2482,7 @@
   {
     "id": "2590",
     "name": "CARAMEL CBD 4PK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "SHELBY",
@@ -2513,7 +2513,7 @@
   {
     "id": "2591",
     "name": "CARAMEL THC 4PK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CANDIES",
     "vendor": "SHELBY",
@@ -2544,7 +2544,7 @@
   {
     "id": "1626",
     "name": "AVEXIA ASCEND 2.5MG THC 40 PACK",
-    "description": null,
+    "description": "2.5mg of THC each tablet / 40 tablets",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "ATARAX",
@@ -2575,7 +2575,7 @@
   {
     "id": "1876",
     "name": "AVEXIA COMFORT 2:1 CBD:THC 40 PACK",
-    "description": null,
+    "description": "2.5mg of CBD & 1.25mg of THC each tablet / 40 tablets totalk",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "ATARAX",
@@ -2606,7 +2606,7 @@
   {
     "id": "2400",
     "name": "AVEXIA RELIEF 14:1 40 PACK",
-    "description": null,
+    "description": "2.5mg of CBD each tablet / 40 total tablets",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "ATARAX",
@@ -2637,7 +2637,7 @@
   {
     "id": "1357",
     "name": "CBD 2:1 CAPS 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "CRESCO",
@@ -2668,7 +2668,7 @@
   {
     "id": "1220",
     "name": "CBD 4:1 CAPS 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "CRESCO",
@@ -2699,7 +2699,7 @@
   {
     "id": "2494",
     "name": "CBD:THC 1:1 CAPS 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "CRESCO",
@@ -2730,7 +2730,7 @@
   {
     "id": "1018",
     "name": "CBN CAPSULES 10 PACK",
-    "description": null,
+    "description": "Cannabinol, or CBN, is a lesser known yet highly sought after cannabinoid valued primarily for its sedative effects. Occurring as a result of the oxidization of the THCA and its further conversation from CBN-A. CBN is a perfect cannabinoid for those seeking a good nights sleep. 7.5 mg per capsule 10 capsules in the bottle",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "CRESCO",
@@ -2761,7 +2761,7 @@
   {
     "id": "3837",
     "name": "THC HYBRID CAPSULES 20 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "CRESCO",
@@ -2792,7 +2792,7 @@
   {
     "id": "3838",
     "name": "THC INDICA CAPSULES 20 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "CRESCO",
@@ -2823,7 +2823,7 @@
   {
     "id": "3839",
     "name": "THC SATIVA CAPSULES 20 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "CRESCO",
@@ -2854,7 +2854,7 @@
   {
     "id": "3888",
     "name": "CBD CAPSULES 2:1 10 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "PTS",
@@ -2885,7 +2885,7 @@
   {
     "id": "1167",
     "name": "1:1 CAPSULES 10 PACK",
-    "description": null,
+    "description": "10mg of THC/CBD & 3mg of CBC each capsule / 10 capsules total",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "SHELBY",
@@ -2916,7 +2916,7 @@
   {
     "id": "1987",
     "name": "CBD CAPSULES 10 PACK",
-    "description": null,
+    "description": "27.62mg of CBD per Capsule / 10 Capsules Total",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "SHELBY",
@@ -2947,7 +2947,7 @@
   {
     "id": "1269",
     "name": "SUPPOSITORY 1:1 4 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CAPSULES OR SUPPOSITORIES",
     "vendor": "SHELBY",
@@ -2978,7 +2978,7 @@
   {
     "id": "4471",
     "name": "100MG HARMONY MILK CHOCOLATE MULTI-PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "ATARAX",
@@ -3009,7 +3009,7 @@
   {
     "id": "1186",
     "name": "DARK CHOCOLATE SEA SALT 1:1 HARMONY",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "ATARAX",
@@ -3040,7 +3040,7 @@
   {
     "id": "1415",
     "name": "KIVA DARK BLACKBERRY BAR",
-    "description": null,
+    "description": "Kiva Chocolate Bars are a delicious blend of artisanal chocolate, infused with premium grade cannabis extract.\n\n",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "CRESCO",
@@ -3071,7 +3071,7 @@
   {
     "id": "1416",
     "name": "KIVA DARK ESPRESSO TERRA BITES 20 PACK",
-    "description": null,
+    "description": "Kiva Espresso Bean Terra Bites are crafted from micro-roasted Tanzanian coffee beans coated in rich delicious dark chocolate. ",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "CRESCO",
@@ -3102,7 +3102,7 @@
   {
     "id": "1417",
     "name": "KIVA MILK BLUEBERRY TERRA BITES 20 PACK",
-    "description": null,
+    "description": "Kiva Blueberry Terra Bites are made with tangy, US grwown blueberries layered in smooth milk chocolate.",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "CRESCO",
@@ -3133,7 +3133,7 @@
   {
     "id": "1418",
     "name": "KIVA MILK MINT IRISH CREAM BAR",
-    "description": null,
+    "description": "Kiva Chocolate Bars are a delicious blend of artisanal chocolate, infused with premium grade cannabis extract.",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "CRESCO",
@@ -3164,7 +3164,7 @@
   {
     "id": "2299",
     "name": "INCREDIBLES MILE HIGH MINT",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "GTI",
@@ -3195,7 +3195,7 @@
   {
     "id": "2300",
     "name": "INCREDIBLES PEANUT BUTTER BUDDHA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "GTI",
@@ -3226,7 +3226,7 @@
   {
     "id": "2301",
     "name": "INCREDIBLES STRAWBERRY CRUNCH",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "GTI",
@@ -3257,7 +3257,7 @@
   {
     "id": "1011",
     "name": "FREEDOM FUDGIE INDICA 2 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "REVOLU",
@@ -3288,7 +3288,7 @@
   {
     "id": "1150",
     "name": "FREEDOM FUDGIE SATIVA 2 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "REVOLU",
@@ -3319,7 +3319,7 @@
   {
     "id": "883",
     "name": "HOT COCOA INDICA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "REVOLU",
@@ -3350,7 +3350,7 @@
   {
     "id": "2218",
     "name": "HOT COCOA SATIVA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CHOCOLATE PRODUCTS",
     "vendor": "REVOLU",
@@ -3381,7 +3381,7 @@
   {
     "id": "4532",
     "name": "RAW CONES 1 1/4",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CONES",
     "vendor": "HSW",
@@ -3412,7 +3412,7 @@
   {
     "id": "4608",
     "name": "RAW KING SIZE CONES",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CONES",
     "vendor": "HSW",
@@ -3443,7 +3443,7 @@
   {
     "id": "4715",
     "name": "RIP TIP JOINT CRUTCH",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "CRUTCHES",
     "vendor": "GORDO",
@@ -3474,7 +3474,7 @@
   {
     "id": "4041",
     "name": "QUARTZ DAB PEARL",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DAB PEARLS",
     "vendor": "TBS",
@@ -3505,7 +3505,7 @@
   {
     "id": "4935",
     "name": "SKILLETOOL DABBER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "8MILE",
@@ -3536,7 +3536,7 @@
   {
     "id": "2333",
     "name": "BSG HONEY DABBER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "BSG",
@@ -3567,7 +3567,7 @@
   {
     "id": "4437",
     "name": "BUDDABLADE ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "MYSTER",
@@ -3598,7 +3598,7 @@
   {
     "id": "4433",
     "name": "MIDI-BALL DABBER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "MYSTER",
@@ -3629,7 +3629,7 @@
   {
     "id": "4434",
     "name": "MIDI-PICSCOOP DABBER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "MYSTER",
@@ -3660,7 +3660,7 @@
   {
     "id": "4435",
     "name": "MIDI-SHOVEL DABBER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "MYSTER",
@@ -3691,7 +3691,7 @@
   {
     "id": "4431",
     "name": "POCKET PICSCOOP DABBER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "MYSTER",
@@ -3722,7 +3722,7 @@
   {
     "id": "4432",
     "name": "POCKET SHOVEL DABBER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "MYSTER",
@@ -3753,7 +3753,7 @@
   {
     "id": "4436",
     "name": "SAUCESPOON ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "MYSTER",
@@ -3784,7 +3784,7 @@
   {
     "id": "4073",
     "name": "TBS TITANIUM REVERSE TWEEZERS",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DABBERS",
     "vendor": "TBS",
@@ -3815,7 +3815,7 @@
   {
     "id": "4937",
     "name": "STR8 13",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DAILY BONGS",
     "vendor": "8MILE",
@@ -3846,7 +3846,7 @@
   {
     "id": "4819",
     "name": "DAILY BONG",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DAILY BONGS",
     "vendor": "HSW",
@@ -3877,7 +3877,7 @@
   {
     "id": "5014",
     "name": "$10 BOWL",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DAILY BOWLS",
     "vendor": "8MILE",
@@ -3908,7 +3908,7 @@
   {
     "id": "4534",
     "name": "10 DOLLAR PIPE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DAILY BOWLS",
     "vendor": "HSW",
@@ -3939,7 +3939,7 @@
   {
     "id": "4536",
     "name": "BUBBLER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DAILY BOWLS",
     "vendor": "HSW",
@@ -3970,7 +3970,7 @@
   {
     "id": "4826",
     "name": "DAILY SLIDE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DAILY SLIDES",
     "vendor": "HSW",
@@ -4001,7 +4001,7 @@
   {
     "id": "2639",
     "name": "FUMED DIRECTIONAL",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DIRECTIONALS",
     "vendor": "DEVON",
@@ -4032,7 +4032,7 @@
   {
     "id": "4714",
     "name": "V2 OG RIPTIDE CARB CAP W DAB PEARLS",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DIRECTIONALS",
     "vendor": "GORDO",
@@ -4063,7 +4063,7 @@
   {
     "id": "4736",
     "name": "WOODEN TASTER BOX",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "DUGOUTS",
     "vendor": "RYOT",
@@ -4094,7 +4094,7 @@
   {
     "id": "2586",
     "name": "GALAXY QUARTZ ENAIL",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ENAIL",
     "vendor": "GALAXY",
@@ -4125,7 +4125,7 @@
   {
     "id": "1002",
     "name": "MINI ENAIL",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ENAIL",
     "vendor": "GALAXY",
@@ -4156,7 +4156,7 @@
   {
     "id": "4851",
     "name": "FORBIDDEN FRUIT",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "ATARAX",
@@ -4187,7 +4187,7 @@
   {
     "id": "4836",
     "name": "G PURPS ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "ATARAX",
@@ -4218,7 +4218,7 @@
   {
     "id": "642",
     "name": "MAG LANDRACE",
-    "description": null,
+    "description": "Hailing from the mountains of Iran, this pure indica landrace strain grows beatiful dense nugs with hues of purple and orange. These buds smell sweet with hints of diesel aroma emanating from the trichome covered flower. Absolutely covered in crystals this strain reminds us of the big city holiday lights during the holidays and it will help cope with insomnia, migraines, pain and other similar ailments.\nLineage: Iranian Landrace",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "ATARAX",
@@ -4249,7 +4249,7 @@
   {
     "id": "4012",
     "name": "DURBAN POISON",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "CRESCO",
@@ -4280,7 +4280,7 @@
   {
     "id": "293",
     "name": "DURBAN POISON ",
-    "description": null,
+    "description": "Has a focus mental effects but its uplifting power can aslo spark the giggles. This strain is overall motivating, energizing and can also provide mental relaxation. Lineage is African Landrace  ",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "CRESCO",
@@ -4311,7 +4311,7 @@
   {
     "id": "823",
     "name": "KATSU BUBBA KUSH",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "CRESCO",
@@ -4342,7 +4342,7 @@
   {
     "id": "824",
     "name": "KATSU BUBBA KUSH ",
-    "description": null,
+    "description": "Strong feelings of relaxation which will leave your body feeling heavy and calm. Packing a powerful medicated effect, this strain is ideal for pain relief and insomnia.\nThis strain has the scent of walking through a meadow overgrown with wild flowers. It has a flavor with a variety of sweet notes which will tickle the palette, while the scent earth acts as a backdrop. \nLineage: OG Kush phenotype",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "CRESCO",
@@ -4373,7 +4373,7 @@
   {
     "id": "820",
     "name": "LIME SKUNK",
-    "description": null,
+    "description": "Provides a strongly uplifting mental effect which inspires a calm and free state of mind which is great for mental relaxation. This strain will surely give your patients the urge to get up and moving. Lineage Lemon Skunk & Green Ribbon BX",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "CRESCO",
@@ -4404,7 +4404,7 @@
   {
     "id": "821",
     "name": "LIME SKUNK",
-    "description": null,
+    "description": "Provides a strongly uplifting mental effect which inspires a calm and free state of mind which is great for mental relaxation. This strain will surely give your patients the urge to get up and moving. Lineage Lemon Skunk & Green Ribbon BX",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "CRESCO",
@@ -4435,7 +4435,7 @@
   {
     "id": "4499",
     "name": "BUBBA DIAGONAL ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "GROOTS",
@@ -4466,7 +4466,7 @@
   {
     "id": "4443",
     "name": "GRANOLA FUNK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "GROOTS",
@@ -4497,7 +4497,7 @@
   {
     "id": "4178",
     "name": "ORANGE HERIJUANA ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "GTI",
@@ -4528,7 +4528,7 @@
   {
     "id": "4179",
     "name": "ORANGE HERIJUANA ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "GTI",
@@ -4559,7 +4559,7 @@
   {
     "id": "4569",
     "name": "KEY LIME REMEDY",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "REVOLU",
@@ -4590,7 +4590,7 @@
   {
     "id": "5080",
     "name": "BLUE SHARK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "FLOWERS",
     "vendor": "SHELBY",
@@ -4621,7 +4621,7 @@
   {
     "id": "4801",
     "name": "BLUEBERRY X CLEMENTINE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HASH",
     "vendor": "REVOLU",
@@ -4652,7 +4652,7 @@
   {
     "id": "4802",
     "name": "COOKIES AND CREAM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HASH",
     "vendor": "REVOLU",
@@ -4683,7 +4683,7 @@
   {
     "id": "5049",
     "name": "FLORIDA ORANGE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HASH",
     "vendor": "REVOLU",
@@ -4714,7 +4714,7 @@
   {
     "id": "1970",
     "name": "BAILY COLORED SPOON",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY BOWLS",
     "vendor": "BAI",
@@ -4745,7 +4745,7 @@
   {
     "id": "1972",
     "name": "BAILY SHERLOCK MINI",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY BOWLS",
     "vendor": "BAI",
@@ -4776,7 +4776,7 @@
   {
     "id": "5058",
     "name": "3 HOLE HASH BOWL BUBBLER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY BOWLS",
     "vendor": "KANE",
@@ -4807,7 +4807,7 @@
   {
     "id": "3954",
     "name": "KANE SPOON",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY BOWLS",
     "vendor": "KANE",
@@ -4838,7 +4838,7 @@
   {
     "id": "718",
     "name": "SHERLOCK OPAL",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY BOWLS",
     "vendor": "PERF",
@@ -4869,7 +4869,7 @@
   {
     "id": "4481",
     "name": "KANE CHILLUM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY CHILLUMS",
     "vendor": "KANE",
@@ -4900,7 +4900,7 @@
   {
     "id": "4611",
     "name": "BLUE DREAM/ HOT SAUCE ATTACHMENT",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "DROBS",
@@ -4931,7 +4931,7 @@
   {
     "id": "4615",
     "name": "COMA GOLD RUBY ATTACHMENT",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "DROBS",
@@ -4962,7 +4962,7 @@
   {
     "id": "4614",
     "name": "HOT SAUCE ATTACHMENT",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "DROBS",
@@ -4993,7 +4993,7 @@
   {
     "id": "4613",
     "name": "PARALAX CFL SUBLIME ATTACHMENT",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "DROBS",
@@ -5024,7 +5024,7 @@
   {
     "id": "4610",
     "name": "PUFFCO PEAK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "HSW",
@@ -5055,7 +5055,7 @@
   {
     "id": "4300",
     "name": "FULL FAB EGG ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "JCHAR",
@@ -5086,7 +5086,7 @@
   {
     "id": "4299",
     "name": "MINI FAB EGG",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "JCHAR",
@@ -5117,7 +5117,7 @@
   {
     "id": "4541",
     "name": "SERUM/POTION WIGWAG MINI",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "KANE",
@@ -5148,7 +5148,7 @@
   {
     "id": "4542",
     "name": "TERPS MINITUBE ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "KANE",
@@ -5179,7 +5179,7 @@
   {
     "id": "2653",
     "name": "MAC RIG AND BUBBLE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "MAC",
@@ -5210,7 +5210,7 @@
   {
     "id": "3871",
     "name": "MITOA MARBLE RIG",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY RIGS",
     "vendor": "MITOA",
@@ -5241,7 +5241,7 @@
   {
     "id": "4371",
     "name": "10MM TWO TONE SLIDE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY SLIDES",
     "vendor": "KANE",
@@ -5272,7 +5272,7 @@
   {
     "id": "4113",
     "name": "10MM UV SLIDE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY SLIDES",
     "vendor": "KANE",
@@ -5303,7 +5303,7 @@
   {
     "id": "4114",
     "name": "14MM UV SLIDE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEADY SLIDES",
     "vendor": "KANE",
@@ -5334,7 +5334,7 @@
   {
     "id": "4825",
     "name": "HEMP WICK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "HEMP",
     "vendor": "HSW",
@@ -5365,7 +5365,7 @@
   {
     "id": "2651",
     "name": "25MM INSERT",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "INSERTS",
     "vendor": "TBS",
@@ -5396,7 +5396,7 @@
   {
     "id": "3811",
     "name": "30MM INSERT",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "INSERTS",
     "vendor": "TBS",
@@ -5427,7 +5427,7 @@
   {
     "id": "4667",
     "name": "PUFFCO PEAK INSERT",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "INSERTS",
     "vendor": "TBS",
@@ -5458,7 +5458,7 @@
   {
     "id": "4155",
     "name": "99% ISOPROPYL ALCOHOL",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ISO",
     "vendor": "AMZ",
@@ -5489,7 +5489,7 @@
   {
     "id": "4051",
     "name": "NIGHTSHADE BUBBLE SET WITH ISO JAR",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ISO JARS",
     "vendor": "KANE",
@@ -5520,7 +5520,7 @@
   {
     "id": "4131",
     "name": "DEEP THOUGHTS G6 SINGLE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "JOINT",
     "vendor": "ATARAX",
@@ -5551,7 +5551,7 @@
   {
     "id": "4133",
     "name": "DEEP THOUGHTS MAG LANDRACE SINGLE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "JOINT",
     "vendor": "ATARAX",
@@ -5582,7 +5582,7 @@
   {
     "id": "1545",
     "name": "SWIFT LIFTS G6 5 PACK",
-    "description": null,
+    "description": "The Sativa dominant hybrid is a cross between Aspen OG and world-famous East Coast Sour Diesel. This popular strain is renowned for its sweet, pungent diesel aroma combined with energetic and euphoric Sativa-driven head effects. G6 will give you the boost needed to get through the most difficult days and has the ability to knock out pain while stimulating all of your senses.\nLineage: Aspen OG x High Country Diesel  ",
     "tags": null,
     "product_type": "JOINT",
     "vendor": "ATARAX",
@@ -5613,7 +5613,7 @@
   {
     "id": "1691",
     "name": "SWIFT LIFTS MAG LANDRACE 5 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "JOINT",
     "vendor": "ATARAX",
@@ -5644,7 +5644,7 @@
   {
     "id": "1211",
     "name": "KATSU BUBBA KUSH SINGLE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "JOINT",
     "vendor": "CRESCO",
@@ -5675,7 +5675,7 @@
   {
     "id": "1062",
     "name": "LIME SKUNK SINGLE",
-    "description": null,
+    "description": "Provides a strongly uplifting mental effect which inspires a calm and free state of mind which is great for mental relaxation. This strain will surely give your patients the urge to get up and moving. Lineage Lemon Skunk & Green Ribbon BX",
     "tags": null,
     "product_type": "JOINT",
     "vendor": "CRESCO",
@@ -5706,7 +5706,7 @@
   {
     "id": "5110",
     "name": "DOGWALKERS ORANGE HERIJUANA 5 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "JOINT",
     "vendor": "GTI",
@@ -5737,7 +5737,7 @@
   {
     "id": "4909",
     "name": "DOGWALKERS STRAWBERRY KUSH 5 PACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "JOINT",
     "vendor": "GTI",
@@ -5768,7 +5768,7 @@
   {
     "id": "4665",
     "name": "DOGWALKERS SUNSET SHERBERT 5PK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "JOINT",
     "vendor": "GTI",
@@ -5799,7 +5799,7 @@
   {
     "id": "4459",
     "name": "PINK KUSH LIVE SUGAR",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "AERIZ",
@@ -5830,7 +5830,7 @@
   {
     "id": "5108",
     "name": "G6 LIVE SUGAR BHO",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "ATARAX",
@@ -5861,7 +5861,7 @@
   {
     "id": "2495",
     "name": "DURBAN BUDDER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "CRESCO",
@@ -5892,7 +5892,7 @@
   {
     "id": "5107",
     "name": "GG4 LIVE BUDDER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "CRESCO",
@@ -5923,7 +5923,7 @@
   {
     "id": "4971",
     "name": "GG4 SAUCE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "CRESCO",
@@ -5954,7 +5954,7 @@
   {
     "id": "1862",
     "name": "LIME SKUNK SAUCE",
-    "description": null,
+    "description": "Provides a strongly uplifting mental effect which inspires a calm and free state of mind which is great for mental relaxation. This strain will surely give your patients the urge to get up and moving. Lineage Lemon Skunk & Green Ribbon BX",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "CRESCO",
@@ -5985,7 +5985,7 @@
   {
     "id": "4997",
     "name": "BUBBA DIAGONAL SUGAR",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "GROOTS",
@@ -6016,7 +6016,7 @@
   {
     "id": "5034",
     "name": "MAC SUGAR",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "GROOTS",
@@ -6047,7 +6047,7 @@
   {
     "id": "4074",
     "name": "707 HEADBAND",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "PTS",
@@ -6078,7 +6078,7 @@
   {
     "id": "5076",
     "name": "BLUEBERRY X MAZAR SAUCE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "PTS",
@@ -6109,7 +6109,7 @@
   {
     "id": "4146",
     "name": "BLUEBERRY CLEMENTINE SAUCE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "REVOLU",
@@ -6140,7 +6140,7 @@
   {
     "id": "5073",
     "name": "DR. PEEL GOOD",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "REVOLU",
@@ -6171,7 +6171,7 @@
   {
     "id": "2275",
     "name": "KANDY KUSH OG SAUCE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "LIVE RESIN",
     "vendor": "REVOLU",
@@ -6202,7 +6202,7 @@
   {
     "id": "4564",
     "name": "DAB SWABS ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "MOPS",
     "vendor": "GOT VA",
@@ -6233,7 +6233,7 @@
   {
     "id": "1719",
     "name": "BRUCE BANNER #3",
-    "description": null,
+    "description": "A Sativa dominant hybrid strain with OG Kush and Strawberry Diesel heritage giving it a moderate level of THC and overall Cannabinoid content. A very popular strain, which has instantaneous effects consisting of an overall feeling of relaxation. Bruce Banner #3 medicinal benefits include the easing of pain and depression as well as insomnia and stress. Its flavor profile consists of sweet and citrus notes with hints of pine.\nLineage: Bruce Banner phenotype",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "ATARAX",
@@ -6264,7 +6264,7 @@
   {
     "id": "1180",
     "name": "GELATO",
-    "description": null,
+    "description": "This Bay Area, California native gets its name from the fruity, dessert-like aroma, a common genetic thread among the Cookie family. Her buds tend to bloom in dark purple hues illuminated by fiery orange hairs and a shining white coat of crystal resin. Novice consumers may want to approach this THC powerhouse with caution, but those armed with a high tolerance will delight in Gelato\\'s heavy-handed euphoria. Physical relaxation comes on strong, but may find themselves still mentally agile enough to stay productive and creative when enjoying Gelato during the day.\nLineage: Sunset Sherbet x Thin Mint Girl Scout Cookies",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "ATARAX",
@@ -6295,7 +6295,7 @@
   {
     "id": "591",
     "name": "GHOST TRAIN HAZE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "ATARAX",
@@ -6326,7 +6326,7 @@
   {
     "id": "1083",
     "name": "HARLE TSU",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "ATARAX",
@@ -6357,7 +6357,7 @@
   {
     "id": "875",
     "name": "MAG LANDRACE",
-    "description": null,
+    "description": "Hailing from the mountains of Iran, this pure indica landrace strain grows beatiful dense nugs with hues of purple and orange. These buds smell sweet with hints of diesel aroma emanating from the trichome covered flower. Absolutely covered in crystals this strain reminds us of the big city holiday lights during the holidays and it will help cope with insomnia, migraines, pain and other similar ailments.\nLineage: Iranian Landrace",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "ATARAX",
@@ -6388,7 +6388,7 @@
   {
     "id": "4065",
     "name": "SUPER GLUE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "ATARAX",
@@ -6419,7 +6419,7 @@
   {
     "id": "592",
     "name": "WHITE HARMONY ",
-    "description": null,
+    "description": "A balanced 1:1 ratio of THC to CBD sativa dominant strain that leaves you feeling relaxed and uplifted. Its balanced profile makes it an excellent choice for pain, anxiety, depression and muscle spasms. Its flavor profile consists of an earthy flavor with hints of pine.\nLineage: Durban Poison x White Widow",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "ATARAX",
@@ -6450,7 +6450,7 @@
   {
     "id": "2631",
     "name": "4:1 HARLE-TSU CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "CRESCO",
@@ -6481,7 +6481,7 @@
   {
     "id": "3726",
     "name": "CRITICAL PURPLE KUSH LIQUID LIVE RESIN",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "CRESCO",
@@ -6512,7 +6512,7 @@
   {
     "id": "3854",
     "name": "GREEN LINE OG LIQUID LIVE RESIN",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "CRESCO",
@@ -6543,7 +6543,7 @@
   {
     "id": "1219",
     "name": "HARLEQUIN 1:1 CO2",
-    "description": null,
+    "description": "Provides patients a clear minded uplifting effects that includes CBD to inspire relaxation and calmness. This strain also includes physical relaxation and an overall feeling of being comfortable. Lineage of Colombian Gold, Thai Landrace & Swiss Landrace. ",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "CRESCO",
@@ -6574,7 +6574,7 @@
   {
     "id": "2444",
     "name": "HARLEQUIN 2:1 CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "CRESCO",
@@ -6605,7 +6605,7 @@
   {
     "id": "2497",
     "name": "ISLAND SWEET SKUNK BHO",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "CRESCO",
@@ -6636,7 +6636,7 @@
   {
     "id": "2324",
     "name": "OG 18",
-    "description": null,
+    "description": "Leisure and relaxation come naturally with the calming and mellowing effects of this strain. Delivering a long lasting sleepy effect which will have you feeling in a trance mentally. Lineage of OG Kush phenotype.",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "CRESCO",
@@ -6667,7 +6667,7 @@
   {
     "id": "1966",
     "name": "SOUR DIESEL LIQUID LIVE RESIN",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "CRESCO",
@@ -6698,7 +6698,7 @@
   {
     "id": "5082",
     "name": "SUGAR PLUM SUNSET LIQUID LIVE RESIN",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "CRESCO",
@@ -6729,7 +6729,7 @@
   {
     "id": "5083",
     "name": "GHOST OG CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -6760,7 +6760,7 @@
   {
     "id": "5056",
     "name": "GORILLA KUSH CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -6791,7 +6791,7 @@
   {
     "id": "4902",
     "name": "JACK HERER CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -6822,7 +6822,7 @@
   {
     "id": "5084",
     "name": "OG KUSH CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -6853,7 +6853,7 @@
   {
     "id": "2250",
     "name": "PAX BROWNIE SCOUT POD",
-    "description": null,
+    "description": "This product requires a Pax Era device to function\n\nEuphoric and relaxing, Brownie Scout brings sweet relief.\n\nLive Resin Pods - Rythm live resin is a flash frozen to preserve the purest and richest taste from the highest quality flower and is now available through the sleek and sophisticated PAX Era vaporizer system.\n",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -6884,7 +6884,7 @@
   {
     "id": "4706",
     "name": "PAX DURBAN POD",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -6915,7 +6915,7 @@
   {
     "id": "4984",
     "name": "PAX HARLEQUIN",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -6946,7 +6946,7 @@
   {
     "id": "4862",
     "name": "PAX KOSHER KUSH",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -6977,7 +6977,7 @@
   {
     "id": "4900",
     "name": "PAX SOUR DIESEL",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -7008,7 +7008,7 @@
   {
     "id": "5085",
     "name": "STARDAWG GUAVA CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "GTI",
@@ -7039,7 +7039,7 @@
   {
     "id": "461",
     "name": "ALIEN ROCK CANDY CO2",
-    "description": null,
+    "description": "The legendary Alien ancestry dominates this highly regarded strain. The perfect marriage of Alien Sour Dubb with Tahoe Alien creates Alien Rock Candy, a popular indica-dominant hybrid. Its sweet citrus taste complements the pleasant fruity terpenoids.\nLineage: Alien Sour Dubble x Tahoe Alien",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "REVOLU",
@@ -7070,7 +7070,7 @@
   {
     "id": "5062",
     "name": "COOKIES AND CREAM",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "REVOLU",
@@ -7101,7 +7101,7 @@
   {
     "id": "2220",
     "name": "DOUBLE GORILLA OG CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "REVOLU",
@@ -7132,7 +7132,7 @@
   {
     "id": "3847",
     "name": "KANDY KUSH OG X REVOLUTION REMEDY CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "REVOLU",
@@ -7163,7 +7163,7 @@
   {
     "id": "5053",
     "name": "TWISTED LIME OG",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL CARTRIDGE",
     "vendor": "REVOLU",
@@ -7194,7 +7194,7 @@
   {
     "id": "2037",
     "name": "ALIEN BUBBA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "CRESCO",
@@ -7225,7 +7225,7 @@
   {
     "id": "1891",
     "name": "SOJAY HAZE BHO",
-    "description": null,
+    "description": "Highlightened by an intense flavor and profound cerebral effects. This strain will provide patients uplifting effects which can provide a spark of energy and minimize body fatigue. This is a great strain to fight depression and to help patients stay active. Lineage BC Big Bud & Grape FX",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "CRESCO",
@@ -7256,7 +7256,7 @@
   {
     "id": "3922",
     "name": "SOUR PINK GRAPEFRUIT BHO ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "CRESCO",
@@ -7287,7 +7287,7 @@
   {
     "id": "2625",
     "name": "STAR KILLER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "CRESCO",
@@ -7318,7 +7318,7 @@
   {
     "id": "5111",
     "name": "BLUE DREAM CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "GTI",
@@ -7349,7 +7349,7 @@
   {
     "id": "5020",
     "name": "CLEMENTINE CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "GTI",
@@ -7380,7 +7380,7 @@
   {
     "id": "5086",
     "name": "JACK HERER CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "GTI",
@@ -7411,7 +7411,7 @@
   {
     "id": "4308",
     "name": "ORANGE HERIJUANA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "GTI",
@@ -7442,7 +7442,7 @@
   {
     "id": "5112",
     "name": "SOUR DIESEL CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "GTI",
@@ -7473,7 +7473,7 @@
   {
     "id": "4943",
     "name": "STARDAWG GUAVA CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "GTI",
@@ -7504,7 +7504,7 @@
   {
     "id": "3700",
     "name": "GOBBSTOPPER",
-    "description": null,
+    "description": "This indica packs a sweet and spicy flavor and aroma with hints of grape, berry, sandalwood, and spicy herbal undertones. Gobbstopper brings on deep relaxation and relief from pain insomnia.\n\nTHC - 22-25%\n\nPrevalent Terpenes\n1. Beta-Myrcene\n2. Limonene\n3.Nerolidol\n\nInsomnia, Pain, Stress Relief",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "PTS",
@@ -7535,7 +7535,7 @@
   {
     "id": "1953",
     "name": "PURPLE THAI",
-    "description": null,
+    "description": "Purple Thai is a Sativa Dominant Hybrid strain known for its very nutty and chocolatey flavor with a hint of coffee.  MOst say it\\'s like drinking a hazelnut latte with chocolate syrup in it.  THis is due to a strain mix of Oaxacan GOld and CHocolate Thai.  Purple Thai can relieve users with chronic fatigue, mild to moderate depression, and chronic pain/stress.  Not recommended for inexperienced users or those with high anxiety.",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "PTS",
@@ -7566,7 +7566,7 @@
   {
     "id": "2341",
     "name": "WILD THAI",
-    "description": null,
+    "description": "An electric smelling flower originating from the Ko Chang Archipelago. Very full flowers covered in bright orange hairs and a dazzling array of trichomes that produce high powered cerebral experiences.\n\nGenetic Lineage; Pure Landrace\n\nTHC 25-31%\n\nPrevelant Terpenes\n1.Limonene\n2.Caryophyllene\n3.Myrcene\n\nGlaucoma & Nausea",
     "tags": null,
     "product_type": "OIL PEN",
     "vendor": "PTS",
@@ -7597,7 +7597,7 @@
   {
     "id": "4927",
     "name": "3 TIER DAB STAND",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ORGANIZATION",
     "vendor": "8MILE",
@@ -7628,7 +7628,7 @@
   {
     "id": "4928",
     "name": "BUBBLE CAP STAND",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ORGANIZATION",
     "vendor": "8MILE",
@@ -7659,7 +7659,7 @@
   {
     "id": "4149",
     "name": "GORDO SCIENTIFIC CARB CAP STAND",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ORGANIZATION",
     "vendor": "KUHNS",
@@ -7690,7 +7690,7 @@
   {
     "id": "4151",
     "name": "ISO JAR AND Q-TIP HOLDER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ORGANIZATION",
     "vendor": "KUHNS",
@@ -7721,7 +7721,7 @@
   {
     "id": "4156",
     "name": "LARGE DABBER AND CAP STAND",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "ORGANIZATION",
     "vendor": "KUHNS",
@@ -7752,7 +7752,7 @@
   {
     "id": "4533",
     "name": "RAW CHALLENGER CONE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "PAPERS",
     "vendor": "HSW",
@@ -7783,7 +7783,7 @@
   {
     "id": "4661",
     "name": "RAW CONNOISSEUR 1 1/4 PACKS",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "PAPERS",
     "vendor": "HSW",
@@ -7814,7 +7814,7 @@
   {
     "id": "4546",
     "name": "RAW ORGANIC HEMP 1 1/4 ROLLING PAPERS",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "PAPERS",
     "vendor": "HSW",
@@ -7845,7 +7845,7 @@
   {
     "id": "4248",
     "name": "JOINT TIPS",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "PAPERS",
     "vendor": "TREE",
@@ -7876,7 +7876,7 @@
   {
     "id": "4247",
     "name": "KINGSIZE PAPERS",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "PAPERS",
     "vendor": "TREE",
@@ -7907,7 +7907,7 @@
   {
     "id": "4936",
     "name": "STR8 BLAZER TORCH CASE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "PROTECTIVE CASES",
     "vendor": "8MILE",
@@ -7938,7 +7938,7 @@
   {
     "id": "4732",
     "name": "14",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "PROTECTIVE CASES",
     "vendor": "RYOT",
@@ -7969,7 +7969,7 @@
   {
     "id": "4733",
     "name": "PACKRATZ MEDIUM CARBON BAG",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "PROTECTIVE CASES",
     "vendor": "RYOT",
@@ -8000,7 +8000,7 @@
   {
     "id": "4734",
     "name": "STORAGE PUCK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "PROTECTIVE CASES",
     "vendor": "RYOT",
@@ -8031,7 +8031,7 @@
   {
     "id": "4366",
     "name": "EAST COAST SOUR DIESEL ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "RSO",
     "vendor": "ATARAX",
@@ -8062,7 +8062,7 @@
   {
     "id": "4493",
     "name": "GHOST TRAIN HAZE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "RSO",
     "vendor": "ATARAX",
@@ -8093,7 +8093,7 @@
   {
     "id": "1024",
     "name": "GG#4 BHO",
-    "description": null,
+    "description": "GG#4 is a potent hybrid that has strong initial effect before providing an extended experience of calm and relaxation. User\\'s can expect relief, reducing anxiety, insomnia.\n\nTHC - 23-26% \n\nPrevalent Terpenes\n1.Beta-Caryophyllene\n2.Nerolidol\n3.Beta-Myrcene\n\nRelieve Pain, Reduce Anxiety and Insomnia",
     "tags": null,
     "product_type": "RSO",
     "vendor": "CRESCO",
@@ -8124,7 +8124,7 @@
   {
     "id": "4063",
     "name": "CBD BLEND BHO RSO",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "RSO",
     "vendor": "GTI",
@@ -8155,7 +8155,7 @@
   {
     "id": "4783",
     "name": "GALACTIC JACK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "RSO",
     "vendor": "SHELBY",
@@ -8186,7 +8186,7 @@
   {
     "id": "430",
     "name": "SWEET PEA CO2",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "RSO",
     "vendor": "SHELBY",
@@ -8217,7 +8217,7 @@
   {
     "id": "4896",
     "name": "DRAGON TEARS DOUBLE GORILLA OG ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "SAP",
     "vendor": "REVOLU",
@@ -8248,7 +8248,7 @@
   {
     "id": "4840",
     "name": "DRAGON TEARS LUCKLEBERRIES #59 X REVOLUTION REMEDY",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "SAP",
     "vendor": "REVOLU",
@@ -8279,7 +8279,7 @@
   {
     "id": "5101",
     "name": "DRAGON TEARS RED HEADED STRANGER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "SAP",
     "vendor": "REVOLU",
@@ -8310,7 +8310,7 @@
   {
     "id": "2055",
     "name": "JACK HERER SUNROCK",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "SHATTER",
     "vendor": "ATARAX",
@@ -8341,7 +8341,7 @@
   {
     "id": "1505",
     "name": "COLOMBIAN GOLD",
-    "description": null,
+    "description": "Colombian Gold, a Landrace sativa from Colombia, is a euphoric and energizing strain that produces flowers with sweet and fruity aroma. This strain provides patients ease from stress, headaches, and depression; all while giving an energy and mood boost.\nLineage: Colombian Landrace",
     "tags": null,
     "product_type": "SHATTER",
     "vendor": "PTS",
@@ -8372,7 +8372,7 @@
   {
     "id": "5104",
     "name": "GOBBSTOPPER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "SHATTER",
     "vendor": "PTS",
@@ -8403,7 +8403,7 @@
   {
     "id": "4914",
     "name": "TERPOMETER",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TERPOMETERS",
     "vendor": "MASTER",
@@ -8434,7 +8434,7 @@
   {
     "id": "2256",
     "name": "CBN ORAL SPRAY",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "CRESCO",
@@ -8465,7 +8465,7 @@
   {
     "id": "1808",
     "name": "INDICA ORAL SPRAY",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "CRESCO",
@@ -8496,7 +8496,7 @@
   {
     "id": "1809",
     "name": "SATIVA ORAL SPRAY",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "CRESCO",
@@ -8527,7 +8527,7 @@
   {
     "id": "5028",
     "name": "FEEL COLLECTION 10:1 HEAL",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "GTI",
@@ -8558,7 +8558,7 @@
   {
     "id": "5027",
     "name": "FEEL COLLECTION SATIVA ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "GTI",
@@ -8589,7 +8589,7 @@
   {
     "id": "4985",
     "name": "FEEL DREAMY CBN:THC 1:1",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "GTI",
@@ -8620,7 +8620,7 @@
   {
     "id": "4702",
     "name": "MARY'S MEDICINAL COLTYN'S REMEDY 1:1",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "GTI",
@@ -8651,7 +8651,7 @@
   {
     "id": "2308",
     "name": "CANNADROPS SPECTRA 1:1 CBD:THC",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "REVOLU",
@@ -8682,7 +8682,7 @@
   {
     "id": "2314",
     "name": "CANNADROPS SPECTRA COMPLETE CBD",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "REVOLU",
@@ -8713,7 +8713,7 @@
   {
     "id": "3808",
     "name": "CANNAMIST - SPECTRA TROPICAL 1:1 CBD/THC",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "REVOLU",
@@ -8744,7 +8744,7 @@
   {
     "id": "3809",
     "name": "CANNAMIST - SPECTRA TROPICAL HIGH CBD",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "REVOLU",
@@ -8775,7 +8775,7 @@
   {
     "id": "4108",
     "name": "CANNAMIST SPECTRA COMPLETE TROPICAL SATIVA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TINCTURES OR ORAL SPRAYS",
     "vendor": "REVOLU",
@@ -8806,7 +8806,7 @@
   {
     "id": "3850",
     "name": "AEPSOM SALT SOAK AVEXIA",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TOPICALS",
     "vendor": "ATARAX",
@@ -8837,7 +8837,7 @@
   {
     "id": "942",
     "name": "CBN PATCH",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TOPICALS",
     "vendor": "GTI",
@@ -8868,7 +8868,7 @@
   {
     "id": "761",
     "name": "THC SATIVA PATCH",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TOPICALS",
     "vendor": "GTI",
@@ -8899,7 +8899,7 @@
   {
     "id": "764",
     "name": "THCA PATCH",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TOPICALS",
     "vendor": "GTI",
@@ -8930,7 +8930,7 @@
   {
     "id": "4931",
     "name": "BLAZER TORCH GUARD",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TORCHES",
     "vendor": "8MILE",
@@ -8961,7 +8961,7 @@
   {
     "id": "4930",
     "name": "BLUE BLAZER TORCH",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TORCHES",
     "vendor": "8MILE",
@@ -8992,7 +8992,7 @@
   {
     "id": "4545",
     "name": "BLAZER BIG SHOT GT8000",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TORCHES",
     "vendor": "HSW",
@@ -9023,7 +9023,7 @@
   {
     "id": "4822",
     "name": "RAW BAMBOO ROLLING TRAY ",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "TRAYS",
     "vendor": "HSW",
@@ -9054,7 +9054,7 @@
   {
     "id": "5075",
     "name": "HONEYBUCKET 8 BALL KUSH CRUMBLE",
-    "description": null,
+    "description": "",
     "tags": null,
     "product_type": "WAX",
     "vendor": "PTS",
