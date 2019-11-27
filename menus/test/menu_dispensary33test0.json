@@ -1,0 +1,1435 @@
+[
+  {
+    "id": "5579",
+    "name": "Pink Lemonade",
+    "product_type": "Dry Flower",
+    "vendor": "Aeriz",
+    "thc": "18.25",
+    "cbd": "0.00",
+    "strain_type": "Dry Flower",
+    "flavor": [
+      "Lemon",
+      "Citrus",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "The lineage of this strain is not well known and there are most likely several versions out there. This one is a cross of Purple Kush and Lemon Skunk. The result is a tart and refreshing citrus flavor that is remarkably reminiscent of its namesake. The effects are primarily cerebral, though there is a significant “body high”. Neither super energetic nor sedative."
+  },
+  {
+    "id": "3513",
+    "name": "“Purple Haze”",
+    "product_type": "Dry Flower",
+    "vendor": "Bedford Grow",
+    "thc": "17.66",
+    "cbd": "0.00",
+    "strain_type": "Dry Flower",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "One of the most iconic strains in existence, the original genetics were\r\nthought to have been lost in the ‘70’s. Many believe that it was a\r\nphenotype of an unnamed Afghani strain that was then crossed w/ a\r\nHaze strain; Others say it is Purple Thai x Super Silver Haze. This\r\nhomage is actually Purple Linda x N.L. x Haze. A hazy cerebral effect\r\nw/ mood uplifting euphoria and a bit more energizing than previous lots."
+  },
+  {
+    "id": "6015",
+    "name": "Cherry Wu",
+    "product_type": "Dry Flower",
+    "vendor": "Bedford Grow",
+    "thc": "0.78",
+    "cbd": "17.15",
+    "strain_type": "Dry Flower",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Very little is known about this strain, but it is a cross between T.S.K. #5 and an Afghan Landrace. Much of the lineage is CBD rich and combination reflects that as well. At nearly 22:1 CBD:THC, we find that its best use is for mixing with other strains to create specific cannabinoid ratios."
+  },
+  {
+    "id": "28554",
+    "name": "“Orange Whip”",
+    "product_type": "Dry Flower",
+    "vendor": "Bedford Grow",
+    "thc": "19.11",
+    "cbd": "0.00",
+    "strain_type": "Dry Flower",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Likely an in-house cross, this cultivar’s lineage is comprised of Orange Afghani and Chemneisa. The cerebral and mildly energizing effects are what seem to stand out the most, though there is a mild focusing quality and relaxing physical euphoria as well. The aroma is both bright and citric, w/ an earthy funk and pine-like finish."
+  },
+  {
+    "id": "2239",
+    "name": "Chunk Dawg",
+    "product_type": "Dry Flower",
+    "vendor": "Bedford Grow",
+    "thc": "27.30",
+    "cbd": "0.00",
+    "strain_type": "Dry Flower",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A fairly complex lineage comprised of a Panama F7, Deep Chunk, Sour Diesel and I95, this is really one of the more interesting and nuanced strains we’ve seen in IL. The effect leans more towards physically euphoric experiences, though the cerebral elements are quite layered with a “cloudy” feel and more intense visual sensations. The aroma is pine mixed with fuel and chemical notes and a hint of citrus."
+  },
+  {
+    "id": "15515",
+    "name": "Star Killer",
+    "product_type": "Dry Flower",
+    "vendor": "Cresco",
+    "thc": "18.25",
+    "cbd": "0.00",
+    "strain_type": "Dry Flower",
+    "flavor": [
+      "Earthy",
+      "Lemon",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Inflammation"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "From one of our all-time favorite breeders Rare Dankness, this strain is a cross between Skywalker OG and Rare Dankness #2 and was the 2016 Colorado Cannabis Cup Winner in the hybrid category. The euphoria is both cerebral and physical in effect, while still being quite “ston-y”. The aroma is OG-like with elements of pine, earth, and gasoline."
+  },
+  {
+    "id": "12694",
+    "name": "Rocket Fuel",
+    "product_type": "Dry Flower",
+    "vendor": "Cresco",
+    "thc": "20.90",
+    "cbd": "0.00",
+    "strain_type": "Dry Flower",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Originally bred by Archive Seed Bank, one of the most influential breeders in the world today, this strain is a cross between Jet Fuel OG and a Face Off OG BX1 and is one of our favorite new arrivals. A combination of rich pine and earth aromas, typical of great “OG’s”, and a fuel-like diesel pungency. The effects are more physical than previous batches, while the cerebral and motivational aspects stay in tact."
+  },
+  {
+    "id": "9824",
+    "name": "Lime Sorbet",
+    "product_type": "Dry Flower",
+    "vendor": "Cresco – Reserve",
+    "thc": "23.34",
+    "cbd": "0.00",
+    "strain_type": "Dry Flower",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Part of Cresco’s Reserve Line of Top Shelf flower, Lime Sorbet is a cross between two D33 favorites, Katsu Bubba Kush and Lime Skunk. This strain is very interesting on several levels: First, the effect is both cerebral and physical in effect w/o being heavy or intensely sedating. Relaxing though not “foggy”. Second, the lime and citrus aroma mixed w/ earthy notes is quite unique for this kind of strain."
+  },
+  {
+    "id": "9174",
+    "name": "Wookies",
+    "product_type": "Dry Flower",
+    "vendor": "Grassroots",
+    "thc": "20.37",
+    "cbd": "0.00",
+    "strain_type": "Dry Flower",
+    "flavor": [
+      "Berry",
+      "Earthy",
+      "Skunk"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Talkative"
+      ],
+      "negative": [],
+      "medical": []
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A rare strain that is often confused with “Wookie” (I know, a near-arbitrary naming convention confused further by a similar lineage.) This cultivar is a cross between White 91 (The White x Chemdawg 91) x The Forum Cut of Girl Scout Cookie. The effects are predominantly cerebral though in a “ston-y” manner with mild physical aspects. Complex aromas of chinotto, musk and preserved lemon."
+  },
+  {
+    "id": "23475",
+    "name": "“Orange Herijuana”",
+    "product_type": "Dry Flower",
+    "vendor": "GTI",
+    "thc": "15.23",
+    "cbd": "11.58",
+    "strain_type": "Dry Flower",
+    "flavor": [
+      "Earthy",
+      "Spicy/Herbal",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A Cross between Orange Skunk and Herijuana, this strain boasts an interesting 2:3 CBD:THC. The effects are slightly more energizing and cerebral than some other CBD rich cultivars at a similar ratio, with a mellow physical effect that seems to become increasingly more physical at higher doses. The aroma is dried tropical fruits and pine while orange citrus notes are more noticeable through retronasal olfaction."
+  },
+  {
+    "id": "31133",
+    "name": "“Champion City Chocolate”",
+    "product_type": "Dry Flower",
+    "vendor": "PTS",
+    "thc": "33.98",
+    "cbd": "0.00",
+    "strain_type": "Dry Flower",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Although named “Champion City Chocolate” by PTS, an homage to East St. Louis, this strain is actually Chocolate OG. Deep notes of earth and hints of spice create an aroma reminiscent of cocoa beans, w/ a pine-y and floral finish. The effects tend more toward the heavier end of the euphoria, w/ a strong cerebral feel; all the while the potency is obvious."
+  },
+  {
+    "id": "30610",
+    "name": "“Orange Whip” Pre-rolled Joint",
+    "product_type": "Pre-Rolled Joints",
+    "vendor": "Bedford Grow",
+    "thc": "19.11",
+    "cbd": "0.00",
+    "strain_type": "Pre-Rolled Joints",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Likely an in-house cross, this cultivar’s lineage is comprised of Orange Afghani and Chemnesia. The cerebral and mildly energizing effects are what seem to stand out, though there is a mild focusing quality and relaxing physical euphoria as well. The aroma is both bright and citric, with an earthy funk and pine-y finish."
+  },
+  {
+    "id": "31234",
+    "name": "Ghost OG – Pre-rolled Joints",
+    "product_type": "Pre-Rolled Joints",
+    "vendor": "GTI",
+    "thc": "23.93",
+    "cbd": "0.00",
+    "strain_type": "Pre-Rolled Joints",
+    "flavor": [
+      "Citrus",
+      "Earthy",
+      "Pine"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "The exact origins of Ghost OG are widely debated, but generally speaking, it is a phenotype of the well known OG Kush; the backstory that follows is not something we see often in modern cannabis lore. The effects are quite physical and “ston-y,” w/ an uplifting cerebral feel. Both earthy and citric, the tasting notes are rounded out w/ a subtle, but present floral backdrop."
+  },
+  {
+    "id": "29087",
+    "name": "“Canna X” – Rosin",
+    "product_type": "Concentrates",
+    "vendor": "Bedford Grow",
+    "thc": "34.27",
+    "cbd": "41.27",
+    "strain_type": "Concentrates",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Part of Bedford Grow’s in-house breeding program this cultivar is an interesting cross of Cannatonic (whose lineage includes Reina Madre and NYC Diesel) and “Purple Doctor,” the result is a nearly 1:1 CBD:THC ratio. As a Rosin the euphoria manifests itself as a mellow cerebral experience with a moderate physical effect and increased sedation coming at higher doses. This specific ratio can be effective in addressing certain anxiety issues and musculoskeletal pain."
+  },
+  {
+    "id": "7695",
+    "name": "Kosher Tangie – Live Sugar",
+    "product_type": "Concentrates",
+    "vendor": "Cresco",
+    "thc": "65.68",
+    "cbd": "0.00",
+    "strain_type": "Concentrates",
+    "flavor": [
+      "Citrus",
+      "Orange",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Creative",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Muscle Spasms"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A cross between Kosher Kush and Tangie originally created by DNA Genetics, this strain has always interested us because it combines such polar opposites. The heavy, almost musky characteristics of Kosher Kush juxtaposed with the intense citrus and lighthearted euphoria of Tangie creates an experience that is both confusing and uniquely pleasurable. The unique Tangie aroma dominates."
+  },
+  {
+    "id": "28306",
+    "name": "GG#4 – Live Budder",
+    "product_type": "Concentrates",
+    "vendor": "Cresco",
+    "thc": "69.45",
+    "cbd": "0.00",
+    "strain_type": "Concentrates",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Commonly thought to be a cross between Sour Dubb, Chem Sister,\r\nand Chocolate Diesel. As a Live Budder the energizing properties\r\nthis strain is known for are slightly lost as this batch presents the\r\neuphoria in a heavy, physical manner with a “foggy” cerebral effect.\r\nThe aroma is earthy and floral, with a brightness reminiscent of eucalyptus."
+  },
+  {
+    "id": "14569",
+    "name": "Durban Poison – Live Budder",
+    "product_type": "Concentrates",
+    "vendor": "Cresco",
+    "thc": "71.93",
+    "cbd": "0.00",
+    "strain_type": "Concentrates",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Pine"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Named after the South African port city, this is one of the most coveted strains in existence. A “pure” Sativa, which is a rarity, the narrative that follows this strain are almost hard to believe. As a Live Budder the effects are true to form, cerebral, visual, energizing and at times racy. The aroma is reminiscent of lemon-lime soda with hints of pine. With over 4% THCv this batch is not for those who are prone to anxiety."
+  },
+  {
+    "id": "11103",
+    "name": "Lime Skunk – Live Sauce",
+    "product_type": "Concentrates",
+    "vendor": "Cresco",
+    "thc": "61.14",
+    "cbd": "0.00",
+    "strain_type": "Concentrates",
+    "flavor": [
+      "Lime",
+      "Citrus",
+      "Skunk"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Muscle Spasms"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Part of Jason Nelson’s breeding efforts as Head Grower of Cresco Labs, this strain is a cross of Lemon Skunk and Green River BX. The aroma is heavy with notes of lemon, lime, pomelo and floral elements. The effects are a bit more physical than expected, though we would consider the overall experience cerebral and even energizing at low doses, albeit with a “ston-y” touch."
+  },
+  {
+    "id": "8882",
+    "name": "Lime Sorbet – Live Sauce",
+    "product_type": "Concentrates",
+    "vendor": "Cresco – Reserve",
+    "thc": "58.83",
+    "cbd": "0.00",
+    "strain_type": "Concentrates",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Part of Cresco’s Reserve Line of Top Shelf products, Lime Sorbet\r\nis a cross between two D33 favorites, Katsu Bubba Kush and Lime\r\nSkunk. In this butane extracted form of Live Resin, the effects are\r\nprimarily cerebral, focusing and energizing, while still being fairly\r\npotent. The flavors presented are some of our favorites largely due\r\nto an almost cloying sweetness reminiscent of bubblegum and hard candy."
+  },
+  {
+    "id": "10506",
+    "name": "Northern Lights #5 – Live Sauce",
+    "product_type": "Concentrates",
+    "vendor": "Cresco – Reserve",
+    "thc": "54.75",
+    "cbd": "0.00",
+    "strain_type": "Concentrates",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "The #5 variant of this strain is legendary in its own right. While its\r\nlineage is unknown, this strain won its first of many Cannabis Cups\r\nin 1989. In this Live Resin form, the effects can range from a heavy\r\ncerebral to a heavy physical experience depending on dosage. The\r\nflavor can range with temperature as well. On the low end, quite floral and citric At higher temps the flavor becomes reminiscent of Jolly Ranchers."
+  },
+  {
+    "id": "26767",
+    "name": "Lucinda Williams – Diamonds & Sauce",
+    "product_type": "Concentrates",
+    "vendor": "Grassroots",
+    "thc": "71.96",
+    "cbd": "1.24",
+    "strain_type": "Concentrates",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Not to be confused by Lucinda Williams by Kind Meds in Colorado,\r\nthis version is a cross of Cinderella 99 and The White. One of the\r\nmore interesting products for concentrate connoisseurs, at least\r\non the Illinois market, this THCa crystalline and Sauce was created\r\nfrom a mix of hydrocarbons and cured over a 2 month period. A\r\ncomplex aroma of clementine and floral notes, with a baked good\r\nquality emerging at higher temps. The effects are quite “head-y” with a significant physical euphoria."
+  },
+  {
+    "id": "15538",
+    "name": "1024 – Shatter",
+    "product_type": "Concentrates",
+    "vendor": "PTS",
+    "thc": "76.05",
+    "cbd": "0.83",
+    "strain_type": "Concentrates",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "1024 is a strain developed by Medical Seeds of Spain. Its genetic makeup is a closely guarded secret. In this Shatter variant, the effects are split between cerebral and physical, w/ a heavier, more sedative euphoria emerging at higher doses. Notes of earth and pine are apparent upfront, with a floral sweetness that persists throughout."
+  },
+  {
+    "id": "29697",
+    "name": "Bruce Banner 1dot0 – Hydrocarbon Wax",
+    "product_type": "Concentrates",
+    "vendor": "PTS",
+    "thc": "78.96",
+    "cbd": "0.22",
+    "strain_type": "Concentrates",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Diesel"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headaches"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A cross between the famed Bruce Banner #3 and Strawberry Diesel F3, this strain was originally bred by Dark Horse Genetics in an attempt to stabilize the popular #3 pheno. In a Hydrocarbon Wax form, the OG characteristics are subdued, while floral qualities and notes of spice and earth are more apparent. Marked by excellent potency the euphoria is uplifting and “ston-y” with a good physical effect."
+  },
+  {
+    "id": "17971",
+    "name": "Colombian Gold – Shatter",
+    "product_type": "Concentrates",
+    "vendor": "PTS",
+    "thc": "74.56",
+    "cbd": "0.27",
+    "strain_type": "Concentrates",
+    "flavor": [
+      "Earthy",
+      "Pungent",
+      "Citrus"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Talkative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A Landrace is a strain that has been native to a particular area\r\nlong enough to have adapted to a specific microclimate so that\r\nindividualistic traits are present. This particular Cultivar originated\r\nin the Santa Ana Mountain range in Colombia. This Shatter variant\r\nis much more physical and sedative than is typical for this strain,\r\nthough less sedating than previous batches. The flavor is earthy with slight hints of pine and a floral finish.\r\n\r\n "
+  },
+  {
+    "id": "30416",
+    "name": "G6 aka “Jet Fuel” – Diamonds and Sauce",
+    "product_type": "Concentrates",
+    "vendor": "Verano",
+    "thc": "99.29",
+    "cbd": "0.00",
+    "strain_type": "Concentrates",
+    "flavor": [
+      "Diesel",
+      "Earthy",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Fatigue"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "At just over 8% Terpenes, this Live Sauce extracted from the G6 strain is filled with notes of sweet berry aromas, musk, and gas like flavors. Uplifting in effect, with a quite potent “stony” feel. Boasting 99% purity the “Diamonds” are nearly tasteless and odorless."
+  },
+  {
+    "id": "24796",
+    "name": "“Biscotti” – Ethanol Distillate",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Ataraxia",
+    "thc": "82.00",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Distillate refers to concentrates produced via the process of Short Path Distillation. This process allows specific cannabinoids to be separated and refined. Distillates typically have very little taste or aroma, which is why this version was created using novel flavorings that were made with non-cannabis derived terpenes."
+  },
+  {
+    "id": "24789",
+    "name": "“Watermelon” – Ethanol Distillate",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Ataraxia",
+    "thc": "84.59",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Sweet",
+      "Berry",
+      "Tropical"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Distillate refers to concentrates produced via the process of Short Path Distillation. This process allows specific cannabinoids to be separated and refined. Distillates typically have very little taste or aroma, which is why this version was created using novel flavorings that were made with non-cannabis derived terpenes."
+  },
+  {
+    "id": "24795",
+    "name": "“Lemon Cake” – Ethanol Distillate",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Ataraxia",
+    "thc": "86.33",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Cheese",
+      "Lemon",
+      "Spicy/Herbal"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Energetic"
+      ],
+      "negative": [],
+      "medical": [
+        "Stress"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Distillate refers to concentrates produced via the process of Short Path Distillation. This process allows specific cannabinoids to be separated and refined. Distillates typically have very little taste or aroma, which is why this version was created using novel flavorings that were made with non-cannabis derived terpenes."
+  },
+  {
+    "id": "30473",
+    "name": "Pink Lemonade – CO2 + Terpenes",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Aeriz",
+    "thc": "68.18",
+    "cbd": "1.55",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Lemon",
+      "Citrus",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "The lineage of this strain is not well known and there are most likely several versions out there. This one is a cross of Purple Kush and Lemon Skunk. While the taste is less similar to its namesake than the flower, there are still bright citric elements, thought they are slightly subdued by deeper earth and floral notes. The effects are primarily physical with a mellow and uplifting cerebral feel."
+  },
+  {
+    "id": "9765",
+    "name": "Cherry Wu – CO2 + Terpenes",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Bedford Grow",
+    "thc": "8.28",
+    "cbd": "70.15",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Very little is known about this strain, but it is a cross between T.S.K.\r\n#5 and an Afghan Landrace. Much of the lineage is CBD rich and\r\ncombination reflects that as well. The most interesting aspect of this\r\nformulation is the high CBD content producing a ratio of 8:1 CBD:THC. This is particularly useful for those w/ certain forms of anxiety."
+  },
+  {
+    "id": "28040",
+    "name": "“Beverly Road” – CO2 + Terpenes",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Bedford Grow",
+    "thc": "73.62",
+    "cbd": "0.61",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Part of Bedford Grow’s in-house breeding program, this strain’s lineage is Black Kush and Purple Linda. As a CO2 extract with terpenes reintroduced the effects are balanced between physical and cerebral, though the uplifting and moderately energizing qualities are what seem to stand out. A complex taste of pepper, lemon zest and a hint of musk."
+  },
+  {
+    "id": "26070",
+    "name": "Chem De La Chem – CO2 + Terpenes",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Bedford Grow",
+    "thc": "80.61",
+    "cbd": "0.35",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": null
+  },
+  {
+    "id": "30475",
+    "name": "OG 18 – Liquid Live Resin",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Cresco",
+    "thc": "82.03",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A truly different and quite remarkable product that is fundamentally different from many Liquid Live Resin Cartridges on the market today. While many LLR cartridges use purchased terps or PG as dilutants, this cartridge utilizes HTE. The result is a rich terp profile that produces nuanced levels of flavor and layered psychotropic effects that are most similar to flower. Both cerebral and physical, without heavy sedation."
+  },
+  {
+    "id": "12772",
+    "name": "Harle Tsu 4:1 – CO2 Cartridge",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Cresco",
+    "thc": "12.55",
+    "cbd": "50.18",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "The well known CBD dominant strain has a complex parentage that includes Colombian Gold, a Nepali Indica, and several landraces. CO2 Oil, the most interesting aspect of this formulation is the high CBD content producing a ratio of roughly 4:1 CBD:THC. This is particularly useful for those with certain forms of anxiety."
+  },
+  {
+    "id": "12709",
+    "name": "1:1 Harlequin –  CO2 Cartridge",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Cresco",
+    "thc": "37.95",
+    "cbd": "33.43",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue",
+        "Inflammation"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Originally bred by Southern Humboldt Seeds Collective, this CBD rich strain is a cross between Harlequin and Sour Tsunami. As a CO2 Oil, the most interesting aspect of this formulation is the high CBD content, producing a ratio of roughly 1:1 CBD:THC. This particular ratio is effective for addressing muskulo-skeletal pain."
+  },
+  {
+    "id": "30887",
+    "name": "Sojay Haze – Liquid Live Resin",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Cresco",
+    "thc": "78.87",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A truly different and quite remarkable product that is fundamentally different from many Liquid Live Resin Cartridges on the market today. While many LLR cartridges use purchased terps or PG as dilutants, this cartridge utilizes HTE. The result is a rich terp profile that produces nuanced levels of flavor and layered psychotropic effects that are most similar to flower. Cerebral and uplifting in effect."
+  },
+  {
+    "id": "12175",
+    "name": "Greenline OG – Liquid Live Resin",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Cresco – Reserve",
+    "thc": "81.16",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A truly different and quite remarkable product that is fundamentally different from many Liquid Live Resin Cartridges on the market today.While many LLR cartridges use purchased terps or PG as a dilutants, this cartridge utilizes HTE. The result is a rich terp profile that produces nuanced levels of flavor and layered psychotropic effect that is most similar to flower. “Ston-y” and physical in effect."
+  },
+  {
+    "id": "11700",
+    "name": "Critical “Purple” Kush – Liquid Live Resin",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Cresco – Reserve",
+    "thc": "83.64",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A truly different and quite remarkable product that is fundamentally different from many Liquid Live Resin Cartridges on the market today. While many LLR cartridges use purchased terps or PG as a dilutant, This cartridge utilizes HTE. The result is a rich terp profile that produces nuanced levels of flavor and layered psychotropic effect that is most similar to flower. The effects are both cerebral and physical, yet not too heavy."
+  },
+  {
+    "id": "24806",
+    "name": "Chem 4 – Sauce Cart",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Grassroots",
+    "thc": "63.27",
+    "cbd": "0.61",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A phenotype of the mythical Chemdawg, the origins of this strain are as legendary as they come. This new line of Cartridges from Grassroots is a unique product to the Illinois market as it differs from other Sauce Cartridges by used cured rather than “live” plant material. The result is a full and diverse terpene profile and a nuanced cerebral and physical euphoria. The taste is both floral, and pepper-y with a slightly soapy finish."
+  },
+  {
+    "id": "24805",
+    "name": "Bubba Diagonal – Sauce Cart",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Grassroots",
+    "thc": "73.46",
+    "cbd": "0.36",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Bubba Diagonal is an interesting cross of Bubba and Triangle Kush, two clone-only strains that both have OG Kush in their genealogy. This new line of Cartridges from Grassroots is a unique product to the Illinois market as it differs from other Sauce Cartridges by used cured rather than “live” plant material. The result is a full and diverse terpene profile and a nuanced cerebral and physical euphoria. The flavor is akin to pinecone, with an added citric and earthy quality."
+  },
+  {
+    "id": "24804",
+    "name": "Wookies – Sauce Cart",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Grassroots",
+    "thc": "65.26",
+    "cbd": "0.14",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Berry",
+      "Earthy",
+      "Skunk"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Talkative"
+      ],
+      "negative": [],
+      "medical": []
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A rare strain that is often confused with “Wookie”, this cultivar is a cross between White 91 (The White x Chemdawg 91) x The Forum Cut of Girl Scout Cookie. This new line of Cartridges from Grassroots is a unique product to the Illinois market as it differs from other Sauce Cartridges by used cured rather than “live” plant material. The result is a full and diverse terpene profile and a nuanced cerebral and physical euphoria. The flavor is split between pine and citrus with an earthy backdrop."
+  },
+  {
+    "id": "24803",
+    "name": "MAC – Sauce Cart",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Grassroots",
+    "thc": "72.85",
+    "cbd": "0.25",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Bred by the legendary Capulator, the strain’s lineage is Alien Cookies x (Colombian Gold x Starfighter) and is much lauded in grower circles. This new line of Cartridges from Grassroots is a unique product to the Illinois market as it differs from other Sauce Cartridges by used cured rather than “live” plant material. The result is a full and diverse terpene profile and a nuanced cerebral and physical euphoria. The taste is reminiscent of candied orange and baking spice with a floral finish."
+  },
+  {
+    "id": "15914",
+    "name": "“Orange Herijuana” – Live Resin",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "GTI – Pax",
+    "thc": "40.91",
+    "cbd": "26.41",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Earthy",
+      "Spicy/Herbal",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A cross of Orange Skunk and Herijuana, this strain boasts an interesting ratio of 2:3 CBD:THC. For use in these Pax Era Cartridges, a Live Resin was created using a hydrocarbon extraction and then diluted with relatively odorless and tasteless plant derived terpenes at a rate of 8%. Slightly more energizing than other CBD rich cartridges, with a mellow physical “high”. Pomelo and tropical hard candy dominate the palate, with a touch of pine."
+  },
+  {
+    "id": "24410",
+    "name": "Jack Herer – CO2 + Terpenes",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "GTI",
+    "thc": "83.28",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Ahh, Jack Herer. One of the most legendary strains in existence and one of our all time favorites. Originally bred by Sensi Seeds and named after near mythical activist and author of the first cannabis book many of us read. As a C02 Extract the tasting notes are on par with the cultivar, bright pomelo brightness with an added hint of spice. The euphoria is both cerebral, and uplifting, with moderate physical effects."
+  },
+  {
+    "id": "10164",
+    "name": "Double Tangie Banana – CO2 + Terpenes",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Revolution",
+    "thc": "81.47",
+    "cbd": "0.42",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Citrus",
+      "Orange",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headaches"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Originally bred by Crockett Family Farms, the lineage is believed to be Banana Split x Lemon Skunk. It’s also been said that the Tangie used in its’ lineage is the Orange Tangie from DNA Genetics. Whatever the case may be, the aroma has notes of banana as well as citrus. The effects are both cerebral and physical w/ a slightly energizing feel."
+  },
+  {
+    "id": "8493",
+    "name": "“Alien Orange Candy” – CO2 + Terpenes",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Revolution",
+    "thc": "70.75",
+    "cbd": "0.51",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Part of Revolution’s in house breeding program, this strain is an F1 cross of Alien Rock Candy and Clementine. In CO2 Oil form, the effects are more physical than expected nor is this version energizing, though there is a good cerebral euphoria present. The aroma is reminiscent of orange cleaner with a hint of cheese or musk. Though some may balk at the lower THC percentage, over 11% terpenes gives this Cartridge a pleasant and nuanced experience."
+  },
+  {
+    "id": "23594",
+    "name": "G6 – Live Sauce",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Verano",
+    "thc": "57.45",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A brand new product in Illinois, the Double Barrel is the first device to utilize the use of two cartridges simultaneously, adding a unique level of customization not yet fully explored. Originating from Colorado, the fan favorite’s lineage includes Aspen Kush as well as Original Sour Diesel. As a Live Sauce, with nearly 10% terpenes, the tasting notes are true to form, with a slightly more citric quality than the flower. The effects are uplifting and cerebral with a moderate physical euphoria."
+  },
+  {
+    "id": "23591",
+    "name": "“L’Orange” – Ethanol Distillate",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Verano",
+    "thc": "84.75",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A brand new product in Illinois, The Double Barrel is the first device to utilize the use of two cartridges simultaneously, adding a unique level of customization not yet fully explored. This version of “L’Orange” is actually an Ethanol Distillate with “Sherbinski Terps”* to recreate the characteristics of Cannabiotix’s L’Orange. The flavor of this Cartridge is sweet and citric, truly reminiscent of Pixy Stix. Excellent potency, with balanced cerebral and physical effects.\r\n*Non-cannabis derived terpenes."
+  },
+  {
+    "id": "23588",
+    "name": "“Sunset Sherbet” – Ethanol Distillate",
+    "product_type": "Vape Pens & Cartridges",
+    "vendor": "Verano",
+    "thc": "86.99",
+    "cbd": "0.00",
+    "strain_type": "Vape Pens & Cartridges",
+    "flavor": [
+      "Sweet",
+      "Citrus",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A brand new product in Illinois, the Double Barrel is the first device to utilize the use of two cartridges simultaneously, adding a unique level of customization not yet fully explored. This version of “Sunset Sherbet” is actually an Ethanol Distillate with “Sherbinski Terps”* added to recreate the characteristics of Sherbinski’s incredibly popular cultivar. Both cloying and “orange-y”, the taste is just like a Dreamsicle. Excellent potency, with a “ston-y”, cerebral high.\r\n*Non-cannabis derived terpenes."
+  }
+]

@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "3854",
+    "name": "GREEN LINE OG LIQUID LIVE RESIN",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "CRESCO",
+    "thc": "81.16",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "140.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1219",
+    "name": "HARLEQUIN 1:1 CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "CRESCO",
+    "thc": "45.32",
+    "cbd": "24.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue",
+        "Inflammation"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": "Provides patients a clear minded uplifting effects that includes CBD to inspire relaxation and calmness. This strain also includes physical relaxation and an overall feeling of being comfortable. Lineage of Colombian Gold, Thai Landrace & Swiss Landrace. "
+  },
+  {
+    "id": "2444",
+    "name": "HARLEQUIN 2:1 CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "CRESCO",
+    "thc": "22.87",
+    "cbd": "44.12",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue",
+        "Inflammation"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2497",
+    "name": "ISLAND SWEET SKUNK BHO",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "CRESCO",
+    "thc": "86.44",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Sweet",
+      "Tropical",
+      "Skunk"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2324",
+    "name": "OG 18",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "CRESCO",
+    "thc": "81.38",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": "Leisure and relaxation come naturally with the calming and mellowing effects of this strain. Delivering a long lasting sleepy effect which will have you feeling in a trance mentally. Lineage of OG Kush phenotype."
+  },
+  {
+    "id": "1966",
+    "name": "SOUR DIESEL LIQUID LIVE RESIN",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "CRESCO",
+    "thc": "79.31",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5082",
+    "name": "SUGAR PLUM SUNSET LIQUID LIVE RESIN",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "CRESCO",
+    "thc": "84.65",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Sweet",
+      "Berry",
+      "Lavender"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Nausea",
+        "Headache",
+        "Inflammation"
+      ]
+    },
+    "price": "140.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5083",
+    "name": "GHOST OG CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "77.80",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Citrus",
+      "Earthy",
+      "Pine"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5056",
+    "name": "GORILLA KUSH CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "77.66",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Berry",
+      "Blueberry",
+      "Menthol"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Aroused"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache",
+        "Inflammation"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4902",
+    "name": "JACK HERER CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "74.11",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5084",
+    "name": "OG KUSH CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "74.16",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2250",
+    "name": "PAX BROWNIE SCOUT POD",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "77.92",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": "This product requires a Pax Era device to function\n\nEuphoric and relaxing, Brownie Scout brings sweet relief.\n\nLive Resin Pods - Rythm live resin is a flash frozen to preserve the purest and richest taste from the highest quality flower and is now available through the sleek and sophisticated PAX Era vaporizer system.\n"
+  },
+  {
+    "id": "4706",
+    "name": "PAX DURBAN POD",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "77.36",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4984",
+    "name": "PAX HARLEQUIN",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "36.30",
+    "cbd": "42.67",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue",
+        "Inflammation"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4862",
+    "name": "PAX KOSHER KUSH",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "81.30",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Earthy",
+      "Pungent",
+      "Pine"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4900",
+    "name": "PAX SOUR DIESEL",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "81.85",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5085",
+    "name": "STARDAWG GUAVA CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "GTI",
+    "thc": "77.92",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Diesel",
+      "Earthy",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "461",
+    "name": "ALIEN ROCK CANDY CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "REVOLU",
+    "thc": "74.82",
+    "cbd": "0.72",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Sweet",
+      "Earthy",
+      "Citrus"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": "The legendary Alien ancestry dominates this highly regarded strain. The perfect marriage of Alien Sour Dubb with Tahoe Alien creates Alien Rock Candy, a popular indica-dominant hybrid. Its sweet citrus taste complements the pleasant fruity terpenoids.\nLineage: Alien Sour Dubble x Tahoe Alien"
+  },
+  {
+    "id": "5062",
+    "name": "COOKIES AND CREAM",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "REVOLU",
+    "thc": "72.96",
+    "cbd": "0.24",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Sweet",
+      "Vanilla",
+      "Nutty"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Nausea"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2220",
+    "name": "DOUBLE GORILLA OG CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "REVOLU",
+    "thc": "76.08",
+    "cbd": "1.80",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Flowery",
+      "Berry",
+      "Apple"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Tingly"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Pain",
+        "Stress",
+        "Cramps",
+        "Headache",
+        "Inflammation",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "3847",
+    "name": "KANDY KUSH OG X REVOLUTION REMEDY CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "REVOLU",
+    "thc": "67.44",
+    "cbd": "16.77",
+    "strain_type": "Indica",
+    "flavor": [
+      "Sweet",
+      "Citrus",
+      "Lemon"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5053",
+    "name": "TWISTED LIME OG",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "REVOLU",
+    "thc": "75.74",
+    "cbd": "0.33",
+    "strain_type": "Hybrid - I/S",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2037",
+    "name": "ALIEN BUBBA",
+    "product_type": "OIL PEN",
+    "vendor": "CRESCO",
+    "thc": "74.14",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Earthy",
+      "Ammonia",
+      "Diesel"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Sleepy",
+        "Focused",
+        "Giggly"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite"
+      ]
+    },
+    "price": "100.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1891",
+    "name": "SOJAY HAZE BHO",
+    "product_type": "OIL PEN",
+    "vendor": "CRESCO",
+    "thc": "76.31",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": "100.0",
+    "quantity": 999,
+    "description": "Highlightened by an intense flavor and profound cerebral effects. This strain will provide patients uplifting effects which can provide a spark of energy and minimize body fatigue. This is a great strain to fight depression and to help patients stay active. Lineage BC Big Bud & Grape FX"
+  },
+  {
+    "id": "3922",
+    "name": "SOUR PINK GRAPEFRUIT BHO ",
+    "product_type": "OIL PEN",
+    "vendor": "CRESCO",
+    "thc": "77.63",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Grapefruit",
+      "Citrus",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": "100.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2625",
+    "name": "STAR KILLER",
+    "product_type": "OIL PEN",
+    "vendor": "CRESCO",
+    "thc": "74.41",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Earthy",
+      "Lemon",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Inflammation"
+      ]
+    },
+    "price": "100.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5111",
+    "name": "BLUE DREAM CO2",
+    "product_type": "OIL PEN",
+    "vendor": "GTI",
+    "thc": "73.63",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Blueberry",
+      "Sweet",
+      "Berry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": "100.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5020",
+    "name": "CLEMENTINE CO2",
+    "product_type": "OIL PEN",
+    "vendor": "GTI",
+    "thc": "81.44",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Citrus",
+      "Orange",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "100.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5086",
+    "name": "JACK HERER CO2",
+    "product_type": "OIL PEN",
+    "vendor": "GTI",
+    "thc": "80.04",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": "100.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4308",
+    "name": "ORANGE HERIJUANA",
+    "product_type": "OIL PEN",
+    "vendor": "GTI",
+    "thc": "51.91",
+    "cbd": "33.15",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Earthy",
+      "Spicy/Herbal",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "100.0",
+    "quantity": 999,
+    "description": ""
+  }
+]

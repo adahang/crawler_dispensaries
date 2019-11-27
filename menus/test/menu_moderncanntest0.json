@@ -1,0 +1,584 @@
+[
+  {
+    "id": "4821",
+    "name": "ASH CATCHER",
+    "product_type": "ASH CATCHERS",
+    "vendor": "HSW",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache",
+        "Eye Pressure"
+      ]
+    },
+    "price": "15",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "3986",
+    "name": "YOCAN STIX ATOMIZER",
+    "product_type": "ATOMIZERS",
+    "vendor": "GOT VA",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "7",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4609",
+    "name": "PUFFCO PEAK ATOMIZER",
+    "product_type": "ATOMIZERS",
+    "vendor": "HSW",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1996",
+    "name": "CHOCOLATE CHIP COOKIE 1:1 4 PACK",
+    "product_type": "BAKED GOODS",
+    "vendor": "SHELBY",
+    "thc": "83.84",
+    "cbd": "69.76",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1995",
+    "name": "CHOCOLATE CHIP COOKIE CBD 4 PACK",
+    "product_type": "BAKED GOODS",
+    "vendor": "SHELBY",
+    "thc": "0.00",
+    "cbd": "239.84",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "250.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2279",
+    "name": "CHOCOLATE CHIP COOKIES THC 2 PACK",
+    "product_type": "BAKED GOODS",
+    "vendor": "SHELBY",
+    "thc": "77.68",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "20.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "3851",
+    "name": "BALM PAIN RELIEF HARMONY 1:1 AVEXIA",
+    "product_type": "BALMS AND LOTIONS",
+    "vendor": "ATARAX",
+    "thc": "100.00",
+    "cbd": "100.00",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Citrus",
+      "Lemon",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": "50.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5078",
+    "name": "LOTION PAIN RELIEF 1:1 AVEXIA",
+    "product_type": "BALMS AND LOTIONS",
+    "vendor": "ATARAX",
+    "thc": "100.00",
+    "cbd": "103.10",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "50.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1494",
+    "name": "EXTRA STRENGTH PAIN CREAM",
+    "product_type": "BALMS AND LOTIONS",
+    "vendor": "CRESCO",
+    "thc": "99.99",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1522",
+    "name": "MARY'S MEDICINAL MUSCLE FREEZE LARGE",
+    "product_type": "BALMS AND LOTIONS",
+    "vendor": "GTI",
+    "thc": "0.01",
+    "cbd": "150.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "40.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1088",
+    "name": "CBD BODY OIL",
+    "product_type": "BALMS AND LOTIONS",
+    "vendor": "PTS",
+    "thc": "96.20",
+    "cbd": "195.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "Coconut, jojoba and essential oils. 26 servings/15 mL per bottle"
+  },
+  {
+    "id": "5060",
+    "name": "10M 90",
+    "product_type": "BANGERS",
+    "vendor": "GRSLAB",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "200",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5059",
+    "name": "14M 90",
+    "product_type": "BANGERS",
+    "vendor": "GRSLAB",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "200",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2654",
+    "name": "MAC BANGER",
+    "product_type": "BANGERS",
+    "vendor": "MAC",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "80",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2650",
+    "name": "10M45 THICK BOTTOM",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4347",
+    "name": "10M45 THIN BOTTOM",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2649",
+    "name": "10M90 THICK BOTTOM",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4346",
+    "name": "10M90 THIN BOTTOM",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2648",
+    "name": "14M45 THICK BOTTOM",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4348",
+    "name": "14M45 THIN BOTTOM",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "3812",
+    "name": "14M45 WIDE BUCKET",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2647",
+    "name": "14M90 THICK BOTTOM",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4349",
+    "name": "14M90 THIN BOTTOM",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "3810",
+    "name": "14M90 WIDE BUCKET",
+    "product_type": "BANGERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "23",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4411",
+    "name": "YOCAN STIX",
+    "product_type": "BATTERIES",
+    "vendor": "HSW",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "15",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2307",
+    "name": "PAX ERA",
+    "product_type": "BATTERIES",
+    "vendor": "PAX",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2642",
+    "name": "DEVON FUMED BUBBLE",
+    "product_type": "BUBBLES",
+    "vendor": "DEVON",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2640",
+    "name": "FUMED BUBBLE CAP",
+    "product_type": "BUBBLES",
+    "vendor": "DEVON",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2664",
+    "name": "DOM BUBBLE 25MM",
+    "product_type": "BUBBLES",
+    "vendor": "DOM",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "60",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4112",
+    "name": "EIFLER BUBBLE",
+    "product_type": "BUBBLES",
+    "vendor": "EIFLER",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  }
+]

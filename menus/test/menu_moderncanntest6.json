@@ -1,0 +1,916 @@
+[
+  {
+    "id": "1545",
+    "name": "SWIFT LIFTS G6 5 PACK",
+    "product_type": "JOINT",
+    "vendor": "ATARAX",
+    "thc": "25.79",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "14.0",
+    "quantity": 999,
+    "description": "The Sativa dominant hybrid is a cross between Aspen OG and world-famous East Coast Sour Diesel. This popular strain is renowned for its sweet, pungent diesel aroma combined with energetic and euphoric Sativa-driven head effects. G6 will give you the boost needed to get through the most difficult days and has the ability to knock out pain while stimulating all of your senses.\nLineage: Aspen OG x High Country Diesel  "
+  },
+  {
+    "id": "1691",
+    "name": "SWIFT LIFTS MAG LANDRACE 5 PACK",
+    "product_type": "JOINT",
+    "vendor": "ATARAX",
+    "thc": "23.81",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "14.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1211",
+    "name": "KATSU BUBBA KUSH SINGLE",
+    "product_type": "JOINT",
+    "vendor": "CRESCO",
+    "thc": "19.78",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": "12.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1062",
+    "name": "LIME SKUNK SINGLE",
+    "product_type": "JOINT",
+    "vendor": "CRESCO",
+    "thc": "27.95",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Lime",
+      "Citrus",
+      "Skunk"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "12.0",
+    "quantity": 999,
+    "description": "Provides a strongly uplifting mental effect which inspires a calm and free state of mind which is great for mental relaxation. This strain will surely give your patients the urge to get up and moving. Lineage Lemon Skunk & Green Ribbon BX"
+  },
+  {
+    "id": "5110",
+    "name": "DOGWALKERS ORANGE HERIJUANA 5 PACK",
+    "product_type": "JOINT",
+    "vendor": "GTI",
+    "thc": "14.82",
+    "cbd": "10.10",
+    "strain_type": "CBD",
+    "flavor": [
+      "Earthy",
+      "Spicy/Herbal",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "14.29",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4909",
+    "name": "DOGWALKERS STRAWBERRY KUSH 5 PACK",
+    "product_type": "JOINT",
+    "vendor": "GTI",
+    "thc": "24.52",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Strawberry",
+      "Sweet",
+      "Berry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": "14.29",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4665",
+    "name": "DOGWALKERS SUNSET SHERBERT 5PK",
+    "product_type": "JOINT",
+    "vendor": "GTI",
+    "thc": "22.03",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "14.29",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4459",
+    "name": "PINK KUSH LIVE SUGAR",
+    "product_type": "LIVE RESIN",
+    "vendor": "AERIZ",
+    "thc": "75.27",
+    "cbd": "0.81",
+    "strain_type": "Indica",
+    "flavor": [
+      "Sweet",
+      "Flowery",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": "50.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5108",
+    "name": "G6 LIVE SUGAR BHO",
+    "product_type": "LIVE RESIN",
+    "vendor": "ATARAX",
+    "thc": "67.20",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "80.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2495",
+    "name": "DURBAN BUDDER",
+    "product_type": "LIVE RESIN",
+    "vendor": "CRESCO",
+    "thc": "65.32",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "50.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5107",
+    "name": "GG4 LIVE BUDDER",
+    "product_type": "LIVE RESIN",
+    "vendor": "CRESCO",
+    "thc": "68.07",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "60.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4971",
+    "name": "GG4 SAUCE",
+    "product_type": "LIVE RESIN",
+    "vendor": "CRESCO",
+    "thc": "63.66",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "50.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1862",
+    "name": "LIME SKUNK SAUCE",
+    "product_type": "LIVE RESIN",
+    "vendor": "CRESCO",
+    "thc": "61.55",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Lime",
+      "Citrus",
+      "Skunk"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "60.0",
+    "quantity": 999,
+    "description": "Provides a strongly uplifting mental effect which inspires a calm and free state of mind which is great for mental relaxation. This strain will surely give your patients the urge to get up and moving. Lineage Lemon Skunk & Green Ribbon BX"
+  },
+  {
+    "id": "4997",
+    "name": "BUBBA DIAGONAL SUGAR",
+    "product_type": "LIVE RESIN",
+    "vendor": "GROOTS",
+    "thc": "65.15",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "60.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5034",
+    "name": "MAC SUGAR",
+    "product_type": "LIVE RESIN",
+    "vendor": "GROOTS",
+    "thc": "73.38",
+    "cbd": "0.16",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "60.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4074",
+    "name": "707 HEADBAND",
+    "product_type": "LIVE RESIN",
+    "vendor": "PTS",
+    "thc": "76.72",
+    "cbd": "0.31",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Earthy",
+      "Pungent",
+      "Diesel"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": "60.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5076",
+    "name": "BLUEBERRY X MAZAR SAUCE",
+    "product_type": "LIVE RESIN",
+    "vendor": "PTS",
+    "thc": "80.38",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Blueberry",
+      "Berry",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "60.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4146",
+    "name": "BLUEBERRY CLEMENTINE SAUCE",
+    "product_type": "LIVE RESIN",
+    "vendor": "REVOLU",
+    "thc": "77.95",
+    "cbd": "0.57",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Blueberry",
+      "Berry",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "80.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5073",
+    "name": "DR. PEEL GOOD",
+    "product_type": "LIVE RESIN",
+    "vendor": "REVOLU",
+    "thc": "79.77",
+    "cbd": "0.17",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Sweet",
+      "Berry",
+      "Blueberry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "70.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2275",
+    "name": "KANDY KUSH OG SAUCE",
+    "product_type": "LIVE RESIN",
+    "vendor": "REVOLU",
+    "thc": "77.05",
+    "cbd": "0.44",
+    "strain_type": "Indica",
+    "flavor": [
+      "Sweet",
+      "Citrus",
+      "Lemon"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": "80.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4564",
+    "name": "DAB SWABS ",
+    "product_type": "MOPS",
+    "vendor": "GOT VA",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "7",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1719",
+    "name": "BRUCE BANNER #3",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "ATARAX",
+    "thc": "85.05",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Diesel"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headaches"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": "A Sativa dominant hybrid strain with OG Kush and Strawberry Diesel heritage giving it a moderate level of THC and overall Cannabinoid content. A very popular strain, which has instantaneous effects consisting of an overall feeling of relaxation. Bruce Banner #3 medicinal benefits include the easing of pain and depression as well as insomnia and stress. Its flavor profile consists of sweet and citrus notes with hints of pine.\nLineage: Bruce Banner phenotype"
+  },
+  {
+    "id": "1180",
+    "name": "GELATO",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "ATARAX",
+    "thc": "86.10",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Sweet",
+      "Pungent",
+      "Berry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": "This Bay Area, California native gets its name from the fruity, dessert-like aroma, a common genetic thread among the Cookie family. Her buds tend to bloom in dark purple hues illuminated by fiery orange hairs and a shining white coat of crystal resin. Novice consumers may want to approach this THC powerhouse with caution, but those armed with a high tolerance will delight in Gelato\\'s heavy-handed euphoria. Physical relaxation comes on strong, but may find themselves still mentally agile enough to stay productive and creative when enjoying Gelato during the day.\nLineage: Sunset Sherbet x Thin Mint Girl Scout Cookies"
+  },
+  {
+    "id": "591",
+    "name": "GHOST TRAIN HAZE",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "ATARAX",
+    "thc": "85.05",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Citrus",
+      "Earthy",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1083",
+    "name": "HARLE TSU",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "ATARAX",
+    "thc": "31.52",
+    "cbd": "50.92",
+    "strain_type": "Hybrid - S/I",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "875",
+    "name": "MAG LANDRACE",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "ATARAX",
+    "thc": "86.38",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": "Hailing from the mountains of Iran, this pure indica landrace strain grows beatiful dense nugs with hues of purple and orange. These buds smell sweet with hints of diesel aroma emanating from the trichome covered flower. Absolutely covered in crystals this strain reminds us of the big city holiday lights during the holidays and it will help cope with insomnia, migraines, pain and other similar ailments.\nLineage: Iranian Landrace"
+  },
+  {
+    "id": "4065",
+    "name": "SUPER GLUE",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "ATARAX",
+    "thc": "87.80",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Creative",
+        "Energetic"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes"
+      ],
+      "medical": []
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "592",
+    "name": "WHITE HARMONY ",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "ATARAX",
+    "thc": "42.30",
+    "cbd": "41.07",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Citrus",
+      "Lemon",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": "A balanced 1:1 ratio of THC to CBD sativa dominant strain that leaves you feeling relaxed and uplifted. Its balanced profile makes it an excellent choice for pain, anxiety, depression and muscle spasms. Its flavor profile consists of an earthy flavor with hints of pine.\nLineage: Durban Poison x White Widow"
+  },
+  {
+    "id": "2631",
+    "name": "4:1 HARLE-TSU CO2",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "CRESCO",
+    "thc": "16.71",
+    "cbd": "54.22",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Inflammation"
+      ]
+    },
+    "price": "120.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "3726",
+    "name": "CRITICAL PURPLE KUSH LIQUID LIVE RESIN",
+    "product_type": "OIL CARTRIDGE",
+    "vendor": "CRESCO",
+    "thc": "83.64",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Earthy",
+      "Grape",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": "140.0",
+    "quantity": 999,
+    "description": ""
+  }
+]

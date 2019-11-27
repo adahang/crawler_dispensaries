@@ -1,0 +1,1084 @@
+[
+  {
+    "id": "7177",
+    "name": "“Watermelon SOURS” – Gummies",
+    "product_type": "Edibles",
+    "vendor": "Ataraxia",
+    "thc": "19.87 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Sweet",
+      "Berry",
+      "Tropical"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A pectin based gummy made with all natural flavorings."
+  },
+  {
+    "id": "24825",
+    "name": "“Peppermint” Chocolate Bar",
+    "product_type": "Edibles",
+    "vendor": "Bedford Grow",
+    "thc": "25.00 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Originating in California, and spreading its reaches to several states, Bhang Chocolate prides themselves on Fair Trade and sustainable cocoa, and novel flavor options."
+  },
+  {
+    "id": "27348",
+    "name": "“Milk Chocolate” Chocolate Bar",
+    "product_type": "Edibles",
+    "vendor": "Bedford Grow",
+    "thc": "25.00 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Originating in California, and spreading its reaches to several states, Bhang Chocolate prides themselves on Fair Trade and sustainable cocoa, and novel flavor options."
+  },
+  {
+    "id": "4076",
+    "name": "Watermelon – Gummy",
+    "product_type": "Edibles",
+    "vendor": "Cresco – Mindy’s Edibles",
+    "thc": "24.99mg",
+    "cbd": "0.00mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Sweet",
+      "Berry",
+      "Tropical"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These 25mg gummies are produced using winterized CO2 oil."
+  },
+  {
+    "id": "4075",
+    "name": "Blue Raspberry – Gummy",
+    "product_type": "Edibles",
+    "vendor": "Cresco – Mindy’s Edibles",
+    "thc": "24.99mg",
+    "cbd": "0.00mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These 25mg gummies are produced using winterized CO2 oil."
+  },
+  {
+    "id": "4255",
+    "name": "“Cherry 1:1” – Gummy",
+    "product_type": "Edibles",
+    "vendor": "Cresco – Mindy’s Edibles",
+    "thc": "10.00 mg",
+    "cbd": "10.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These gummies were created using a winterized CO2 oil. The roughly equal ratio of CBD:THC creates a more physical and sedative experience and is quite useful for sleep aid or for longer term relief of musculoskeletal pain."
+  },
+  {
+    "id": "15613",
+    "name": "Caramelized Chocolate Marshmallow Graham Bar",
+    "product_type": "Edibles",
+    "vendor": "Cresco – Mindy’s Edibles",
+    "thc": "50.59mg",
+    "cbd": "47.09mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Another offering from Chef Mindy Siegal for the Mindy’s Edibles line by Cresco, this 8-piece Bar combines caramelized white chocolate, graham crackers and marshmallow. At a roughly 1:1 ratio this product creates a more physical and sedative experience and is quite useful for sleep aid or for longer term relief of musculoskeletal pain. Contains gelatin."
+  },
+  {
+    "id": "5446",
+    "name": "“Dark Espresso Terrabites”",
+    "product_type": "Edibles",
+    "vendor": "Cresco – Kiva",
+    "thc": "4.99 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These chocolate covered espresso beans were created by the well known West Coast brand Kiva. The combination of dark chocolate and caffeine add a layer of complexity to the euphoria and overall experience. 5mg doses are well suited for those lower dosing regimens."
+  },
+  {
+    "id": "5868",
+    "name": "“Dark Blackberry” – Dark Chocolate",
+    "product_type": "Edibles",
+    "vendor": "Cresco – Kiva",
+    "thc": "96.54mg",
+    "cbd": "0mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Berry",
+      "Sweet",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Muscle Spasms"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "The incredibly popular California brand Kiva Confections has partnered w/ Cresco Labs to bring an elegant line of products to the Illinois Market. These chocolate bars use all natural ingredients and are divided into roughly 5mg doses. 5mg doses are well suited for those lower dosing regimens."
+  },
+  {
+    "id": "8398",
+    "name": "“Mint Irish” – Milk Chocolate",
+    "product_type": "Edibles",
+    "vendor": "Cresco – Kiva",
+    "thc": "96.54mg",
+    "cbd": "0mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "The incredibly popular California brand Kiva Confections has partnered w/ Cresco Labs to bring an elegant line of products to the Illinois Market. These chocolate bars use all natural ingredients and are divided into roughly 5mg doses. 5mg doses are well suited for those lower dosing regimens."
+  },
+  {
+    "id": "24816",
+    "name": "“Hale Bites” Granola",
+    "product_type": "Edibles",
+    "vendor": "Grassroots",
+    "thc": "20.00 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A 5 pack of granola infused with approximately 20mg THC per piece."
+  },
+  {
+    "id": "17980",
+    "name": "Wana Blueberry Sour Gummies",
+    "product_type": "Edibles",
+    "vendor": "Grassroots Wana",
+    "thc": "10.00 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Blueberry",
+      "Berry",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These 10mg pectin based gummies are made using all natural flavorings and colors. Vegan and gluten free."
+  },
+  {
+    "id": "24831",
+    "name": "Wana Raspberry Sour Gummies",
+    "product_type": "Edibles",
+    "vendor": "Grassroots Wana",
+    "thc": "10.00 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These 10mg pectin based gummies are made using all natural flavorings and colors. Vegan and gluten free."
+  },
+  {
+    "id": "17978",
+    "name": "Wana Mango Sour Gummies",
+    "product_type": "Edibles",
+    "vendor": "Grassroots Wana",
+    "thc": "10.00 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Mango",
+      "Sweet",
+      "Lemon"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Giggly"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These 10mg pectin based gummies are made using all natural flavorings and colors. Vegan and gluten free."
+  },
+  {
+    "id": "22126",
+    "name": "“Betty’s Eddies” – Bedtime Betty’s",
+    "product_type": "Edibles",
+    "vendor": "GTI",
+    "thc": "20.00mg",
+    "cbd": "0.00mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These Agave Lemon fruit chews contain 20mg of THC and 2mg of Melatonin per piece. Using only organic fruits and vegetables, these edibles are also lactose and gluten free as well as Vegan."
+  },
+  {
+    "id": "4863",
+    "name": "Fruit Chews – Bettys Eddies",
+    "product_type": "Edibles",
+    "vendor": "GTI",
+    "thc": "20.0mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These fruit chews come with 5 flavors per pack: Berry, Lime, Lemon, Grape and Orange. Using only non-GMO fruits, these edibles are also lactose and gluten free, as well as Vegan."
+  },
+  {
+    "id": "9261",
+    "name": "“Strawberry Crunch” – Chocolate Bar",
+    "product_type": "Edibles",
+    "vendor": "GTI – Incredibles",
+    "thc": "99.60 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Strawberry",
+      "Sweet",
+      "Berry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Brought to you by the fine folks at GTI, the Incredibles brand of edibles is well known to any of those who have traveled to Colorado and visited any dispensary. Novel flavors and good potency."
+  },
+  {
+    "id": "9260",
+    "name": "“Windy City” – Chocolate Bar",
+    "product_type": "Edibles",
+    "vendor": "GTI – Incredibles",
+    "thc": "99.93 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Brought to you by the fine folks at GTI, the Incredibles brand of edibles is well known to any of those who have traveled to Colorado and visited any dispensary. Novel flavors and good potency."
+  },
+  {
+    "id": "9266",
+    "name": "“Peanut Budda Buddha” – Chocolate Bar",
+    "product_type": "Edibles",
+    "vendor": "GTI – Incredibles",
+    "thc": "99.95 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Brought to you by the fine folks at GTI, the Incredibles brand of\r\nedibles is well known to any of those who have traveled to Colorado\r\nand visited any dispensary. Novel flavors and good potency."
+  },
+  {
+    "id": "9502",
+    "name": "“Mile High Mint” – Chocolate Bar",
+    "product_type": "Edibles",
+    "vendor": "GTI – Incredibles",
+    "thc": "99.93 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Brought to you by the fine folks at GTI, the Incredibles brand of edibles is well known to any of those who have traveled to Colorado and visited any dispensary. Novel flavors and good potency."
+  },
+  {
+    "id": "3382",
+    "name": "“Indica” Milk Chocolate",
+    "product_type": "Edibles",
+    "vendor": "GTI",
+    "thc": "100mg",
+    "cbd": "0mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These milk chocolate bars are perforated into 4 pieces. Each piece is approximately 25mg THC.\r\n\r\n "
+  },
+  {
+    "id": "30941",
+    "name": "Incredible Gummies 1:1 – “Strawberry”",
+    "product_type": "Edibles",
+    "vendor": "GTI – Incredibles",
+    "thc": "10.00mg",
+    "cbd": "10.00mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Strawberry",
+      "Sweet",
+      "Berry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Created by the well known Incredibles brand from Colorado. These gelatin-based gummies come with a “Sour Flavor” pack as a novel means to adjust flavor. Available in Strawberry."
+  },
+  {
+    "id": "26953",
+    "name": "Incredibles Sour Gummies – “Peach”",
+    "product_type": "Edibles",
+    "vendor": "GTI – Incredibles",
+    "thc": "10.00 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Created by the well known Incredibles brand from Colorado. These gelatin based gummies come with a “Sour Flavor” pack as a novel means to adjust flavor."
+  },
+  {
+    "id": "26950",
+    "name": "Incredibles Sour Gummies – “Green Apple”",
+    "product_type": "Edibles",
+    "vendor": "GTI – Incredibles",
+    "thc": "10.00 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Created by the well known Incredibles brand from Colorado. These gelatin based gummies come with a “Sour Flavor” pack as a novel means to adjust flavor."
+  },
+  {
+    "id": "26946",
+    "name": "Incredibles Sour Gummies – “Watermelon”",
+    "product_type": "Edibles",
+    "vendor": "GTI – Incredibles",
+    "thc": "10.00 mg",
+    "cbd": "0.00 mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Sweet",
+      "Berry",
+      "Tropical"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Created by the well known Incredibles brand from Colorado. These gelatin based gummies come with a “Sour Flavor” pack as a novel means to adjust flavor."
+  },
+  {
+    "id": "27938",
+    "name": "Incredibles – Mixed Fruit Tarts",
+    "product_type": "Edibles",
+    "vendor": "GTI",
+    "thc": "2.00mg/pc",
+    "cbd": "0.00mg/pc",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Brought to you by the fine folks at GTI, the Incredibles brand of edibles is well known to any of those who have traveled to Colorado and visited any dispensary. The 2mg doses are well suited for those lower dosing regimens."
+  },
+  {
+    "id": "10256",
+    "name": "“Innocent” – Raw Honey",
+    "product_type": "Edibles",
+    "vendor": "In Grown Farms",
+    "thc": "50.00mg",
+    "cbd": "58.10mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "The only cultivator in IL who utilizes true Raw Honey to make an infused product. Different from ultra high temperature pasteurized honey that any patients are used to, true honey contains pollens and waxes that are necessary to realize its many health benefits The crystallized texture is normal and actually “proof” that the honey is truly Raw. This is a roughly 1:1 CBD:THC formulation."
+  },
+  {
+    "id": "10258",
+    "name": "“Golden Glue” – Raw Honey",
+    "product_type": "Edibles",
+    "vendor": "In Grown Farms",
+    "thc": "100mg",
+    "cbd": "17.44mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "The only cultivator in IL who utilizes true Raw Honey to make an infused product. Different from ultra high temperature pasteurized honey that any patients are used to, true honey contains pollens and waxes that are necessary to realize its many benefits. The crystallized texture is normal and actually “proof” that the honey is truly Raw.\r\n\r\n "
+  },
+  {
+    "id": "24812",
+    "name": "“Pomegranate Acai” Tonic",
+    "product_type": "Edibles",
+    "vendor": "PTS",
+    "thc": "97.2mg",
+    "cbd": "0mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "One of the few Cannabis Infused Liquids on the market, these Tonics utilize liposomal encapsulation. Made with organic cane sugar, citric acid and natural flavorings."
+  },
+  {
+    "id": "13136",
+    "name": "“Raspberry Lemonade” Tonic",
+    "product_type": "Edibles",
+    "vendor": "PTS",
+    "thc": "97.2mg",
+    "cbd": "0.00mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "One of the few Cannabis Infused Liquids on the market, these Tonics utilize liposomal encapsulation. Made with organic cane sugar, citric acid and natural flavorings."
+  },
+  {
+    "id": "13135",
+    "name": "“Citrus Lime” 1:1 Tonic",
+    "product_type": "Edibles",
+    "vendor": "PTS",
+    "thc": "97.2mg",
+    "cbd": "97.2mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "One of the few Cannabis Infused Liquids on the market, these Tonics utilize liposomal encapsulation. Made with organic cane sugar, citric acid and natural flavorings."
+  },
+  {
+    "id": "25149",
+    "name": "“Tropical Punch” – 1:1 Tonic Shot",
+    "product_type": "Edibles",
+    "vendor": "PTS",
+    "thc": "24.30mg",
+    "cbd": "24.30mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A brand new product in Illinois and one of the few Cannabis Infused Liquids on the market, these Tonics utilize liposomal encapsulation. Made with organic cane sugar, citric acid and natural flavorings."
+  },
+  {
+    "id": "25151",
+    "name": "“Raspberry Lemonade” – Tonic Shot",
+    "product_type": "Edibles",
+    "vendor": "PTS",
+    "thc": "24.30mg",
+    "cbd": "0.00mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A brand new product in Illinois and one of the few Cannabis Infused Liquids on the market, these Tonics utilize liposomal encapsulation. Made with organic cane sugar, citric acid and natural flavorings."
+  },
+  {
+    "id": "23184",
+    "name": "“Cucumber Watermelon” – Tonic Shot",
+    "product_type": "Edibles",
+    "vendor": "PTS",
+    "thc": "24.30mg",
+    "cbd": "0.00mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Sweet",
+      "Berry",
+      "Tropical"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A brand new product in Illinois and one of the few Cannabis Infused Liquids on the market, these Tonics utilize liposomal encapsulation. Made with organic cane sugar, citric acid and natural flavorings."
+  },
+  {
+    "id": "23185",
+    "name": "“Pomegranate Acai” – Tonic Shot",
+    "product_type": "Edibles",
+    "vendor": "PTS",
+    "thc": "24.30mg",
+    "cbd": "0.00mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "A brand new product in Illinois and one of the few Cannabis Infused Liquids on the market, these Tonics utilize liposomal encapsulation. Made with organic cane sugar, citric acid and natural flavorings.\r\n\r\n "
+  },
+  {
+    "id": "9281",
+    "name": "“Kushies Caramels”",
+    "product_type": "Edibles",
+    "vendor": "Revolution",
+    "thc": "50mg",
+    "cbd": "6.22mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Utilizing CO2 extracted Cannabis Oil and liposomal encapsulation delivers a more bioavailable edible product."
+  },
+  {
+    "id": "9280",
+    "name": "“Freedom Fudgies”",
+    "product_type": "Edibles",
+    "vendor": "Revolution",
+    "thc": "50mg",
+    "cbd": "0.18mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Utilizing CO2 extracted Cannabis Oil and liposomal encapsulation delivers a more bioavailable edible product."
+  },
+  {
+    "id": "9144",
+    "name": "“Relief” – 14:1 CBD Tablets",
+    "product_type": "Edibles",
+    "vendor": "Ataraxia",
+    "thc": "0.16mg",
+    "cbd": "2.45mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Designed as a product suited for low dose applications, we find these roughly 2.5mg CBD tablets also lend themselves to mixing with other oral pill type applications in order to create specific cannabinoid profiles."
+  },
+  {
+    "id": "13133",
+    "name": "“Harmony” – 1:1 CBD Tablets",
+    "product_type": "Edibles",
+    "vendor": "Ataraxia",
+    "thc": "2.5mg",
+    "cbd": "2.5mg",
+    "strain_type": "Edibles",
+    "flavor": [
+      "Citrus",
+      "Lemon",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Fatigue"
+      ]
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": null
+  },
+  {
+    "id": "8460",
+    "name": "“Ascend” – THC Tablets",
+    "product_type": "Edibles",
+    "vendor": "Ataraxia",
+    "thc": "2.48mg",
+    "cbd": "0.00mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Designed as a product suited for low dose applications, we find these 2.5mg THC tablets also lend themselves to mixing with other oral pill type applications in order to create specific cannabinoid profiles. Made with mango extract that in conjunction with a relatively high CBN content will add to a physical and sedative experience.\r\n\r\n "
+  },
+  {
+    "id": "4245",
+    "name": "CBN Capsules",
+    "product_type": "Edibles",
+    "vendor": "Cresco",
+    "thc": "0.00mg",
+    "cbd": "0.00mg",
+    "strain_type": "Edibles",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "CBN or Cannabinol is the primary sedative componant found in cannabis, as well as being an extremely useful cannabinoid for musculoskeletal pain. A degradation byproduct of THC, its high affinity for CB2 receptors makes this unique product very useful as a supplement for a myriad of conditions."
+  },
+  {
+    "id": "16513",
+    "name": "GG#4 – RSO",
+    "product_type": "Sublinguals",
+    "vendor": "Cresco",
+    "thc": "665.5mg",
+    "cbd": "0.00mg",
+    "strain_type": "Sublinguals",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "RSO’s simply refer to decarboxylated cannabis oils that were intended for sublingual delivery. The term acknowledges the role of Rick Simpson in bringing attention to this methodology, though today many of his beliefs and practices need to be taken w/ a grain of salt."
+  },
+  {
+    "id": "13501",
+    "name": "Harle Tsu 15:1 – RSO",
+    "product_type": "Sublinguals",
+    "vendor": "Cresco",
+    "thc": "37.50mg",
+    "cbd": "591.50mg",
+    "strain_type": "Sublinguals",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "RSO’s simply refer to decarboxylated cannabis oils that were intended for sublingual delivery. The term acknowledges the role of Rick Simpson in bringing attention to this methodology, though today many of his beliefs and practices need to be taken with a grain of salt."
+  },
+  {
+    "id": "3058",
+    "name": "“Sativa” Gel Pen – THC",
+    "product_type": "Topicals & Transdermals",
+    "vendor": "GTI – Mary’s",
+    "thc": "97.5mg",
+    "cbd": "0.00mg",
+    "strain_type": "Topicals & Transdermals",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "These transdermal Gel Pens work very similarly\r\n\r\nto the patches. The gel “matrix” works by penetrating\r\n\r\nthe stratum corneum, into the dermis, and thereby\r\n\r\nentering the bloodstream. These gels are different from\r\n\r\nother “Topical” applications, which work only on the\r\n\r\nvery surface of the skin."
+  },
+  {
+    "id": "9520",
+    "name": "Patch – Sativa",
+    "product_type": "Topicals & Transdermals",
+    "vendor": "GTI – Mary’s",
+    "thc": "19.57mg",
+    "cbd": "0.00mg",
+    "strain_type": "Topicals & Transdermals",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Transdermal patches are particularly useful for those who require small doses. Patches allow for the slow diffusion of cannabinoids into the blood stream, which in turn can provide long lasting relief, while mitigating psychoactivity."
+  },
+  {
+    "id": "3064",
+    "name": "Patch – CBN",
+    "product_type": "Topicals & Transdermals",
+    "vendor": "GTI – Mary’s",
+    "thc": "2.81mg",
+    "cbd": "2.53mg",
+    "strain_type": "Topicals & Transdermals",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Transdermal patches are particularly useful\r\n\r\nfor those who require small doses. Patches\r\n\r\nallow for the slow diffusion of cannabinoids\r\n\r\ninto the blood stream, which in turn can\r\n\r\nprovide long lasting relief while mitigating\r\n\r\npsychoactivity."
+  },
+  {
+    "id": "3062",
+    "name": "Patch – Indica",
+    "product_type": "Topicals & Transdermals",
+    "vendor": "GTI – Mary’s",
+    "thc": "19.2mg",
+    "cbd": "0.00mg",
+    "strain_type": "Topicals & Transdermals",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Transdermal patches are particularly useful\r\n\r\nfor those who require small doses. Patches\r\n\r\nallow for the slow diffusion of cannabinoids\r\n\r\ninto the blood stream, which in turn can\r\n\r\nprovide long lasting relief while mitigating\r\n\r\npsychoactivity."
+  },
+  {
+    "id": "3057",
+    "name": "“Compound 1:1” – Topical Compound",
+    "product_type": "Topicals & Transdermals",
+    "vendor": "GTI – Mary’s",
+    "thc": "49.62mg",
+    "cbd": "49.52mg",
+    "strain_type": "Topicals & Transdermals",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": 45,
+    "quantity": 999,
+    "description": "Unlike the other Mary’s Medicinals products, this\r\n\r\nTopical “Compound” is not a transdermal product, but\r\n\r\ninstead one that is designed to work on the surface\r\n\r\nof the skin. It is best used for skin conditions such as\r\n\r\npsoriasis."
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "id": "4802",
+    "name": "COOKIES AND CREAM",
+    "product_type": "HASH",
+    "vendor": "REVOLU",
+    "thc": "52.76",
+    "cbd": "0.11",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Sweet",
+      "Vanilla",
+      "Nutty"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Nausea"
+      ]
+    },
+    "price": "50.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5049",
+    "name": "FLORIDA ORANGE",
+    "product_type": "HASH",
+    "vendor": "REVOLU",
+    "thc": "66.97",
+    "cbd": "0.22",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": "50.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1970",
+    "name": "BAILY COLORED SPOON",
+    "product_type": "HEADY BOWLS",
+    "vendor": "BAI",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1972",
+    "name": "BAILY SHERLOCK MINI",
+    "product_type": "HEADY BOWLS",
+    "vendor": "BAI",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "70",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5058",
+    "name": "3 HOLE HASH BOWL BUBBLER",
+    "product_type": "HEADY BOWLS",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache",
+        "Eye Pressure"
+      ]
+    },
+    "price": "70",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "3954",
+    "name": "KANE SPOON",
+    "product_type": "HEADY BOWLS",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "718",
+    "name": "SHERLOCK OPAL",
+    "product_type": "HEADY BOWLS",
+    "vendor": "PERF",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "100",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4481",
+    "name": "KANE CHILLUM",
+    "product_type": "HEADY CHILLUMS",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4611",
+    "name": "BLUE DREAM/ HOT SAUCE ATTACHMENT",
+    "product_type": "HEADY RIGS",
+    "vendor": "DROBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": [
+      "Blueberry",
+      "Sweet",
+      "Berry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": "340",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4615",
+    "name": "COMA GOLD RUBY ATTACHMENT",
+    "product_type": "HEADY RIGS",
+    "vendor": "DROBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "280",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4614",
+    "name": "HOT SAUCE ATTACHMENT",
+    "product_type": "HEADY RIGS",
+    "vendor": "DROBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "280",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4613",
+    "name": "PARALAX CFL SUBLIME ATTACHMENT",
+    "product_type": "HEADY RIGS",
+    "vendor": "DROBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": [
+      "Earthy",
+      "Flowery",
+      "Spicy/Herbal"
+    ],
+    "effect": {
+      "positive": [
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Nausea",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": "340",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4610",
+    "name": "PUFFCO PEAK",
+    "product_type": "HEADY RIGS",
+    "vendor": "HSW",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "390",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4300",
+    "name": "FULL FAB EGG ",
+    "product_type": "HEADY RIGS",
+    "vendor": "JCHAR",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "650",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4299",
+    "name": "MINI FAB EGG",
+    "product_type": "HEADY RIGS",
+    "vendor": "JCHAR",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "450",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4541",
+    "name": "SERUM/POTION WIGWAG MINI",
+    "product_type": "HEADY RIGS",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "250",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4542",
+    "name": "TERPS MINITUBE ",
+    "product_type": "HEADY RIGS",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "150",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2653",
+    "name": "MAC RIG AND BUBBLE",
+    "product_type": "HEADY RIGS",
+    "vendor": "MAC",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "180",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "3871",
+    "name": "MITOA MARBLE RIG",
+    "product_type": "HEADY RIGS",
+    "vendor": "MITOA",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "280",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4371",
+    "name": "10MM TWO TONE SLIDE",
+    "product_type": "HEADY SLIDES",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "35",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4113",
+    "name": "10MM UV SLIDE",
+    "product_type": "HEADY SLIDES",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4114",
+    "name": "14MM UV SLIDE",
+    "product_type": "HEADY SLIDES",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4825",
+    "name": "HEMP WICK",
+    "product_type": "HEMP",
+    "vendor": "HSW",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "2",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2651",
+    "name": "25MM INSERT",
+    "product_type": "INSERTS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "10",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "3811",
+    "name": "30MM INSERT",
+    "product_type": "INSERTS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "10",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4667",
+    "name": "PUFFCO PEAK INSERT",
+    "product_type": "INSERTS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "10",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4155",
+    "name": "99% ISOPROPYL ALCOHOL",
+    "product_type": "ISO",
+    "vendor": "AMZ",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "5",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4051",
+    "name": "NIGHTSHADE BUBBLE SET WITH ISO JAR",
+    "product_type": "ISO JARS",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4131",
+    "name": "DEEP THOUGHTS G6 SINGLE",
+    "product_type": "JOINT",
+    "vendor": "ATARAX",
+    "thc": "25.79",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "15.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4133",
+    "name": "DEEP THOUGHTS MAG LANDRACE SINGLE",
+    "product_type": "JOINT",
+    "vendor": "ATARAX",
+    "thc": "23.81",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "15.0",
+    "quantity": 999,
+    "description": ""
+  }
+]

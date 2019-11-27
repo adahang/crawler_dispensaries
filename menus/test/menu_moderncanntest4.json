@@ -1,0 +1,766 @@
+[
+  {
+    "id": "4432",
+    "name": "POCKET SHOVEL DABBER",
+    "product_type": "DABBERS",
+    "vendor": "MYSTER",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4436",
+    "name": "SAUCESPOON ",
+    "product_type": "DABBERS",
+    "vendor": "MYSTER",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "35",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4073",
+    "name": "TBS TITANIUM REVERSE TWEEZERS",
+    "product_type": "DABBERS",
+    "vendor": "TBS",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "15",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4937",
+    "name": "STR8 13",
+    "product_type": "DAILY BONGS",
+    "vendor": "8MILE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "120",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4819",
+    "name": "DAILY BONG",
+    "product_type": "DAILY BONGS",
+    "vendor": "HSW",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "20",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5014",
+    "name": "$10 BOWL",
+    "product_type": "DAILY BOWLS",
+    "vendor": "8MILE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "10",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4534",
+    "name": "10 DOLLAR PIPE",
+    "product_type": "DAILY BOWLS",
+    "vendor": "HSW",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "10",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4536",
+    "name": "BUBBLER",
+    "product_type": "DAILY BOWLS",
+    "vendor": "HSW",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4826",
+    "name": "DAILY SLIDE",
+    "product_type": "DAILY SLIDES",
+    "vendor": "HSW",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "10",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2639",
+    "name": "FUMED DIRECTIONAL",
+    "product_type": "DIRECTIONALS",
+    "vendor": "DEVON",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4714",
+    "name": "V2 OG RIPTIDE CARB CAP W DAB PEARLS",
+    "product_type": "DIRECTIONALS",
+    "vendor": "GORDO",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "100",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4736",
+    "name": "WOODEN TASTER BOX",
+    "product_type": "DUGOUTS",
+    "vendor": "RYOT",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "35",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2586",
+    "name": "GALAXY QUARTZ ENAIL",
+    "product_type": "ENAIL",
+    "vendor": "GALAXY",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "170",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "1002",
+    "name": "MINI ENAIL",
+    "product_type": "ENAIL",
+    "vendor": "GALAXY",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "170",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4851",
+    "name": "FORBIDDEN FRUIT",
+    "product_type": "FLOWERS",
+    "vendor": "ATARAX",
+    "thc": "18.07",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4836",
+    "name": "G PURPS ",
+    "product_type": "FLOWERS",
+    "vendor": "ATARAX",
+    "thc": "24.59",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - I/S",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "642",
+    "name": "MAG LANDRACE",
+    "product_type": "FLOWERS",
+    "vendor": "ATARAX",
+    "thc": "23.81",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": "Hailing from the mountains of Iran, this pure indica landrace strain grows beatiful dense nugs with hues of purple and orange. These buds smell sweet with hints of diesel aroma emanating from the trichome covered flower. Absolutely covered in crystals this strain reminds us of the big city holiday lights during the holidays and it will help cope with insomnia, migraines, pain and other similar ailments.\nLineage: Iranian Landrace"
+  },
+  {
+    "id": "4012",
+    "name": "DURBAN POISON",
+    "product_type": "FLOWERS",
+    "vendor": "CRESCO",
+    "thc": "19.86",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Pine"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "293",
+    "name": "DURBAN POISON ",
+    "product_type": "FLOWERS",
+    "vendor": "CRESCO",
+    "thc": "19.86",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Pine"
+    ],
+    "effect": {
+      "positive": [
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Fatigue",
+        "Headaches"
+      ]
+    },
+    "price": "20.0",
+    "quantity": 999,
+    "description": "Has a focus mental effects but its uplifting power can aslo spark the giggles. This strain is overall motivating, energizing and can also provide mental relaxation. Lineage is African Landrace  "
+  },
+  {
+    "id": "823",
+    "name": "KATSU BUBBA KUSH",
+    "product_type": "FLOWERS",
+    "vendor": "CRESCO",
+    "thc": "24.64",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": "20.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "824",
+    "name": "KATSU BUBBA KUSH ",
+    "product_type": "FLOWERS",
+    "vendor": "CRESCO",
+    "thc": "24.64",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Earthy",
+      "Sweet",
+      "Pungent"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Euphoric",
+        "Happy",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Lack of Appetite",
+        "Headache"
+      ]
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": "Strong feelings of relaxation which will leave your body feeling heavy and calm. Packing a powerful medicated effect, this strain is ideal for pain relief and insomnia.\nThis strain has the scent of walking through a meadow overgrown with wild flowers. It has a flavor with a variety of sweet notes which will tickle the palette, while the scent earth acts as a backdrop. \nLineage: OG Kush phenotype"
+  },
+  {
+    "id": "820",
+    "name": "LIME SKUNK",
+    "product_type": "FLOWERS",
+    "vendor": "CRESCO",
+    "thc": "24.78",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Lime",
+      "Citrus",
+      "Skunk"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "20.0",
+    "quantity": 999,
+    "description": "Provides a strongly uplifting mental effect which inspires a calm and free state of mind which is great for mental relaxation. This strain will surely give your patients the urge to get up and moving. Lineage Lemon Skunk & Green Ribbon BX"
+  },
+  {
+    "id": "821",
+    "name": "LIME SKUNK",
+    "product_type": "FLOWERS",
+    "vendor": "CRESCO",
+    "thc": "24.78",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": [
+      "Lime",
+      "Citrus",
+      "Skunk"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Creative",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Fatigue",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": "Provides a strongly uplifting mental effect which inspires a calm and free state of mind which is great for mental relaxation. This strain will surely give your patients the urge to get up and moving. Lineage Lemon Skunk & Green Ribbon BX"
+  },
+  {
+    "id": "4499",
+    "name": "BUBBA DIAGONAL ",
+    "product_type": "FLOWERS",
+    "vendor": "GROOTS",
+    "thc": "19.21",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - I/S",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4443",
+    "name": "GRANOLA FUNK",
+    "product_type": "FLOWERS",
+    "vendor": "GROOTS",
+    "thc": "22.08",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - I/S",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4178",
+    "name": "ORANGE HERIJUANA ",
+    "product_type": "FLOWERS",
+    "vendor": "GTI",
+    "thc": "14.82",
+    "cbd": "10.10",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Earthy",
+      "Spicy/Herbal",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "20.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4179",
+    "name": "ORANGE HERIJUANA ",
+    "product_type": "FLOWERS",
+    "vendor": "GTI",
+    "thc": "14.82",
+    "cbd": "10.10",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Earthy",
+      "Spicy/Herbal",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4569",
+    "name": "KEY LIME REMEDY",
+    "product_type": "FLOWERS",
+    "vendor": "REVOLU",
+    "thc": "10.52",
+    "cbd": "13.24",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Citrus",
+      "Earthy",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Happy",
+        "Sleepy",
+        "Focused"
+      ],
+      "negative": [
+        "Dry Mouth"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Inflammation"
+      ]
+    },
+    "price": "17.14",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "5080",
+    "name": "BLUE SHARK",
+    "product_type": "FLOWERS",
+    "vendor": "SHELBY",
+    "thc": "5.33",
+    "cbd": "8.48",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "14.29",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4801",
+    "name": "BLUEBERRY X CLEMENTINE",
+    "product_type": "HASH",
+    "vendor": "REVOLU",
+    "thc": "56.25",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - I/S",
+    "flavor": [
+      "Blueberry",
+      "Berry",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "50.0",
+    "quantity": 999,
+    "description": ""
+  }
+]

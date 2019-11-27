@@ -1,0 +1,791 @@
+[
+  {
+    "id": "4616",
+    "name": "JONG BUBBLE CAP",
+    "product_type": "BUBBLES",
+    "vendor": "JONG",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4050",
+    "name": "BUBBLE CAP WITH STAND",
+    "product_type": "BUBBLES",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "60",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2519",
+    "name": "KANE BUBBLE CAP",
+    "product_type": "BUBBLES",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4683",
+    "name": "KANE PEAK BUBBLE",
+    "product_type": "BUBBLES",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "35",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4641",
+    "name": "NEW BUBBLE DROP",
+    "product_type": "BUBBLES",
+    "vendor": "KANE",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2659",
+    "name": "KAVON BUBBLE CAP",
+    "product_type": "BUBBLES",
+    "vendor": "KVON",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "45",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4809",
+    "name": "BLACK CRUSHED OPAL PEAK ",
+    "product_type": "BUBBLES",
+    "vendor": "WAAG",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "60",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4808",
+    "name": "COLOR CRUSHED OPAL PEAK",
+    "product_type": "BUBBLES",
+    "vendor": "WAAG",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "60",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2031",
+    "name": "LUCIENNE 10 OZ BUTANE CAN",
+    "product_type": "BUTANE",
+    "vendor": "EAST",
+    "thc": "0.00",
+    "cbd": "0.00",
+    "strain_type": "",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "6",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "445",
+    "name": "100 MG BLUEBERRY GUMMY 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "ATARAX",
+    "thc": "100.00",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Blueberry",
+      "Berry",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "10mg of THC & 10mg of CBD / 10 Indica Gummies "
+  },
+  {
+    "id": "446",
+    "name": "100 MG GRAPE GUMMY 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "ATARAX",
+    "thc": "99.57",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - S/I",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "10mg of THC each Gummy / 10 Hybrid Gummies Total"
+  },
+  {
+    "id": "478",
+    "name": "100 MG GREEN APPLE GUMMY 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "ATARAX",
+    "thc": "100.00",
+    "cbd": "200.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "10mg of THC & 20mg of CBD each Gummy / 10 Gummies Total"
+  },
+  {
+    "id": "479",
+    "name": "100 MG ORANGE GUMMY 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "ATARAX",
+    "thc": "100.00",
+    "cbd": "100.00",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Lemon",
+      "Chemical",
+      "Earthy"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Hungry",
+        "Creative",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "10mg of THC & 10mg each Gummy / 10 Gummies Total"
+  },
+  {
+    "id": "441",
+    "name": "100 MG STRAWBERRY GUMMY 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "ATARAX",
+    "thc": "100.00",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Strawberry",
+      "Sweet",
+      "Berry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "10mg of THC each Gummy / 10 Sativa Gummies Total"
+  },
+  {
+    "id": "4551",
+    "name": "CHERRY 1:1 FRUIT CHEWS 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "CRESCO",
+    "thc": "99.86",
+    "cbd": "95.60",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4219",
+    "name": "LEMON LIME FRUIT CHEWS 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "CRESCO",
+    "thc": "99.88",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4220",
+    "name": "MANGO FRUIT CHEWS 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "CRESCO",
+    "thc": "99.85",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Mango",
+      "Sweet",
+      "Lemon"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Giggly"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache"
+      ]
+    },
+    "price": "25.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4200",
+    "name": "STRAWBERRY BANANA FRUIT CHEWS 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "CRESCO",
+    "thc": "99.95",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Strawberry",
+      "Sweet",
+      "Berry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": "25.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2379",
+    "name": "SWEET CHERRY 1:1 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "CRESCO",
+    "thc": "99.95",
+    "cbd": "95.77",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "Feel effects quickly through sublingual absorption followed by lasting effects through digestion. 100mg pack 10mg each piece "
+  },
+  {
+    "id": "833",
+    "name": "SWEET STRAWBERRY SPARKLING 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "CRESCO",
+    "thc": "99.91",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Strawberry",
+      "Sweet",
+      "Berry"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "Feel effects quickly through sublingual absorption followed by lasting effects through digestion. 100mg pack 10mg each piece "
+  },
+  {
+    "id": "834",
+    "name": "SWEET VANILLA BUTTERSCOTCH 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "CRESCO",
+    "thc": "99.99",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Nutty",
+      "Tar",
+      "Woody"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Creative",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Muscle Spasms"
+      ]
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "Feel effects quickly through sublingual absorption followed by lasting effects through digestion. 100mg pack 10mg each piece "
+  },
+  {
+    "id": "4857",
+    "name": "HALE CRUNCH APPLE CIDER CINNAMON CEREAL 4PK",
+    "product_type": "CANDIES",
+    "vendor": "GROOTS",
+    "thc": "100.00",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4741",
+    "name": "HALE MIX SUNFLOWER/PUMPKIN SEED",
+    "product_type": "CANDIES",
+    "vendor": "GROOTS",
+    "thc": "50.00",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Earthy",
+      "Pine",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Happy",
+        "Creative",
+        "Energetic",
+        "Uplifted"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Dry Eyes",
+        "Anxious"
+      ],
+      "medical": [
+        "Depression",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache",
+        "Fatigue"
+      ]
+    },
+    "price": "60.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4438",
+    "name": "WANA BLUEBERRY INDICA GUMMIES 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "GROOTS",
+    "thc": "100.00",
+    "cbd": "0.00",
+    "strain_type": "Indica",
+    "flavor": [
+      "Blueberry",
+      "Berry",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Sleepy"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Headache",
+        "Headaches"
+      ]
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4439",
+    "name": "WANA MANGO SATIVA GUMMIES 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "GROOTS",
+    "thc": "100.00",
+    "cbd": "0.00",
+    "strain_type": "Sativa",
+    "flavor": [
+      "Mango",
+      "Sweet",
+      "Lemon"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Giggly"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache"
+      ]
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4630",
+    "name": "WANA RASPBERRY GUMMY 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "GROOTS",
+    "thc": "100.00",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "4320",
+    "name": "BEDTIME BETTY'S EDDIES FRUIT CHEWS 5 PACK",
+    "product_type": "CANDIES",
+    "vendor": "GTI",
+    "thc": "99.48",
+    "cbd": "0.00",
+    "strain_type": "Hybrid - I/S",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "30.0",
+    "quantity": 999,
+    "description": "20mg of 5pk Fruit Chews"
+  },
+  {
+    "id": "1284",
+    "name": "BETTY'S EDDIES FRUIT CHEWS 5 PACK",
+    "product_type": "CANDIES",
+    "vendor": "GTI",
+    "thc": "99.95",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25.0",
+    "quantity": 999,
+    "description": "5pk of 20mg Fruit Chews"
+  },
+  {
+    "id": "2354",
+    "name": "INCREDIBLES PEACH GUMMY 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "GTI",
+    "thc": "99.89",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": null,
+    "effect": {
+      "positive": null,
+      "negative": null,
+      "medical": null
+    },
+    "price": "25.0",
+    "quantity": 999,
+    "description": ""
+  },
+  {
+    "id": "2355",
+    "name": "INCREDIBLES RED LICORICE 10 PACK",
+    "product_type": "CANDIES",
+    "vendor": "GTI",
+    "thc": "99.90",
+    "cbd": "0.00",
+    "strain_type": "Hybrid",
+    "flavor": [
+      "Diesel",
+      "Flowery",
+      "Sweet"
+    ],
+    "effect": {
+      "positive": [
+        "Relaxed",
+        "Euphoric",
+        "Happy",
+        "Uplifted",
+        "Focused"
+      ],
+      "negative": [
+        "Dizzy",
+        "Dry Mouth",
+        "Paranoid",
+        "Dry Eyes"
+      ],
+      "medical": [
+        "Depression",
+        "Insomnia",
+        "Pain",
+        "Stress",
+        "Nausea",
+        "Headache"
+      ]
+    },
+    "price": "20.0",
+    "quantity": 999,
+    "description": ""
+  }
+]
